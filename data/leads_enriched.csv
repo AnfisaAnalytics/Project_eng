@@ -1,0 +1,22 @@
+company_name,industry,location,company_tier,website,contact_name,contact_title,contact_email,email_valid,seniority_score,priority_score,industry_match
+PulseHealth AI,HealthTech,"Boston, MA",Small  (11-50),https://pulsehealth.ai,Dr. Aisha Okafor,CEO,aisha.okafor@pulsehealth.ai,True,5,10.0,False
+BlueRidge Analytics,Data & Analytics,"Austin, TX",Small  (11-50),https://blueridge.ai,Mark Thompson,CEO,mark.thompson@blueridge.ai,True,5,10.0,True
+Axiom Cloud Security,Cybersecurity,"Austin, TX",Mid    (51-200),https://axiomcloudsec.com,Liam O'Brien,CEO,liam.obrien@axiomcloudsec.com,True,5,10.0,True
+Trident Compliance,RegTech,"Washington, DC",Small  (11-50),https://tridentcompliance.io,Nathan Brooks,Founder,nathan.brooks@tridentcompliance.io,True,5,10.0,False
+ArcLight Solar,CleanTech,"Denver, CO",Small  (11-50),https://arclightsolar.com,Emma Johansson,CEO,emma.johansson@arclightsolar.com,True,5,10.0,False
+Onward Payments,FinTech,"New York, NY",Mid    (51-200),https://onwardpay.com,Sophie Laurent,CEO,sophie.laurent@onwardpay.com,True,5,10.0,True
+Bright Commerce,eCommerce,"Miami, FL",Small  (11-50),https://brightcommerce.co,Carlos Diaz,Founder,carlos.diaz@brightcommerce.co,True,5,10.0,False
+Helix Cyber,Cybersecurity,"Washington, DC",Mid    (51-200),https://helixcyber.com,Maria Volkov,CISO,maria.volkov@helixcyber.com,True,5,10.0,True
+Harbour PropTech,PropTech,"New York, NY",Small  (11-50),https://harbourprop.io,Isabella Russo,Co-Founder,isabella.russo@harbourprop.io,True,5,10.0,False
+Elevate HR Solutions,HR Tech,"Chicago, IL",Small  (11-50),https://elevatehr.io,Laura Simmons,CEO,laura.simmons@elevatehr.io,True,5,10.0,False
+CoreStack Systems,DevOps / Infra,"Boston, MA",Mid    (51-200),https://corestack.dev,Ryan Nguyen,CTO,ryan.nguyen@corestack.dev,True,5,10.0,True
+Luminary Media,Digital Agency,"Los Angeles, CA",Small  (11-50),https://luminarymedia.com,Jessica Moore,Founder,jessica.moore@luminarymedia.com,True,5,10.0,False
+Greenpath Consulting,Consulting,"New York, NY",Small  (11-50),https://greenpath.co,Daniel Park,Managing Partner,daniel.park@greenpath.co,True,5,10.0,False
+Vertex Robotics,Hardware / IoT,"Detroit, MI",Mid    (51-200),https://vertexrobotics.com,Kevin Li,VP Engineering,kevin.li@vertexrobotics.com,True,4,8.3,False
+Prism Financial,FinTech,"New York, NY",Growth (201-500),https://prismfinancial.com,James Carter,CFO,james.carter@prismfinancial.com,True,5,8.3,True
+Beacon Insurance Tech,InsurTech,"Hartford, CT",Mid    (51-200),https://beaconinstech.com,Rachel Cohen,VP Product,rachel.cohen@beaconinstech.com,True,4,8.3,False
+Cascade EdTech,EdTech,"Portland, OR",Small  (11-50),https://cascadeed.io,Nina Patel,Product Lead,nina.patel@cascadeed.io,True,3,6.7,False
+DataStream Labs,Data & Analytics,"San Jose, CA",Small  (11-50),https://datastreamlabs.com,Wei Zhang,Head of Data,wei.zhang@datastreamlabs.com,True,3,6.7,True
+Ionic Supply Chain,Supply Chain,"Atlanta, GA",Growth (201-500),https://ionicsc.com,Diana Foster,Supply Chain VP,diana.foster@ionicsc.com,True,4,6.7,False
+Fortis Cloud,Cloud Services,"Seattle, WA",Growth (201-500),https://fortiscloud.com,Amanda Reyes,VP Sales,amanda.reyes@fortiscloud.com,True,4,6.7,True
+Nexova Technologies,SaaS,"San Francisco, CA",Mid    (51-200),https://nexova.io,Sarah Chen,Head of Marketing,sarah.chen@nexova.io,True,3,6.7,True

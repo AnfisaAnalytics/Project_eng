@@ -1,0 +1,601 @@
+order_id,order_date,customer_name,country,product_category,product_name,quantity,unit_price,discount,revenue,shipping_cost,profit,payment_method,order_status
+ORD-10110,2023-08-06,Julia Smith,Australia,Office Supplies,Mechanical Keyboard,1,36.4,0.0,36.4,11.14,1.11,PayPal,Completed
+ORD-10054,2023-02-15,Nicole Williams,United Kingdom,Electronics,Webcam,1,88.4,0.15,75.14,9.82,17.94,PayPal,Pending
+ORD-10565,2024-11-01,Sophie Smith,France,Books,Python Cookbook,2,36.81,0.1,66.26,12.4,1.09,Bank Transfer,Completed
+ORD-10077,2023-12-30,,United States,Electronics,Wireless Headphones,1,164.95,0.0,164.95,0.0,34.08,PayPal,Completed
+ORD-10181,2023-11-28,James Smith,United Kingdom,Accessories,Screen Protector,1,10.77,0.05,10.23,,-8.37,Credit Card,Refunded
+ORD-10284,2024-03-29,Laura Wilson,Germany,Accessories,Travel Adapter,1,21.01,0.0,21.01,9.82,-1.87,Stripe,Cancelled
+ORD-10224,2023-03-31,Linda Taylor,United Kingdom,Software,Design Suite,2,15.31,0.05,29.09,10.01,-4.06,Credit Card,Cancelled
+ORD-10469,2023-10-01,Kevin Davis,Canada,Software,Cloud Storage Plan,1,26.68,0.0,26.68,5.21,4.7,Credit Card,Completed
+ORD-10078,2023-08-03,David Wilson,United Kingdom,Software,Cloud Storage Plan,2,26.83,0.0,53.66,10.3,0.46,Credit Card,Completed
+ORD-10349,2024-08-01,Ryan Taylor,United States,Office Supplies,Monitor Stand,1,24.86,0.0,24.86,12.88,-4.72,Credit Card,Refunded
+ORD-10055,2023-10-28,,France,Software,Design Suite,5,67.28,0.05,319.58,0.0,106.82,Bank Transfer,Completed
+ORD-10118,2023-05-23,Alex Miller,Canada,Electronics,Bluetooth Speaker,1,182.8,0.0,182.8,0.0,35.34,Stripe,Completed
+ORD-10109,2023-11-19,James Wilson,United States,Electronics,LED Desk Lamp,1,47.02,0.0,47.02,8.77,7.38,Stripe,Completed
+ORD-10588,2023-07-23,Thomas Williams,United States,Office Supplies,Mechanical Keyboard,1,17.83,0.15,15.16,9.77,-3.6,Credit Card,Pending
+ORD-10369,2024-07-30,David Davis,France,Electronics,Wireless Headphones,3,149.89,0.0,449.67,0.0,84.35,Bank Transfer,Completed
+ORD-10234,2023-03-02,Julia Taylor,Germany,Electronics,Wireless Headphones,1,92.31,0.05,87.69,5.29,28.94,Credit Card,Completed
+ORD-10030,2023-10-12,Sophie Garcia,Australia,Accessories,Cable Organizer,3,23.65,0.05,67.4,11.91,7.45,Stripe,Completed
+ORD-10212,2024-02-13,Michael Williams,Spain,Electronics,Bluetooth Speaker,3,51.44,0.0,154.32,0.0,64.38,Credit Card,Completed
+ORD-10184,2023-04-25,Emma Davis,United States,Accessories,Cable Organizer,2,8.21,0.0,16.42,9.5,-5.35,PayPal,Refunded
+ORD-10086,2024-10-12,James Williams,United Kingdom,Books,Python Cookbook,1,18.08,0.0,18.08,7.51,-3.05,Credit Card,Completed
+ORD-10002,2023-01-26,Alex Davis,United Kingdom,Accessories,Travel Adapter,1,31.25,0.0,31.25,11.0,0.92,Credit Card,Completed
+ORD-10587,2023-08-19,Laura Brown,Germany,Office Supplies,Mechanical Keyboard,2,15.99,0.0,31.98,11.06,-4.35,Bank Transfer,Completed
+ORD-10535,2023-05-08,Robert Taylor,Spain,Electronics,Webcam,2,141.01,0.0,282.02,0.0,54.84,Bank Transfer,Completed
+ORD-10596,2024-04-11,Emma Brown,Germany,Accessories,Cable Organizer,1,26.58,0.05,25.25,10.2,-0.04,Bank Transfer,Pending
+ORD-10368,2024-09-28,Thomas Miller,Australia,Electronics,USB-C Hub,4,90.1,0.2,288.32,0.0,71.3,Stripe,Completed
+ORD-10539,2024-11-13,Sarah Garcia,United States,Accessories,Travel Adapter,4,25.57,0.05,97.17,12.13,24.39,Bank Transfer,Completed
+ORD-10072,2024-04-09,Michael Garcia,United States,Books,SQL Guide,2,29.6,0.05,56.24,7.47,13.57,Stripe,Completed
+ORD-10135,2023-06-06,Anna Johnson,Australia,Electronics,LED Desk Lamp,2,78.73,0.05,149.59,0.0,51.98,PayPal,Completed
+ORD-10556,2024-02-20,Chris Jones,United States,Accessories,Laptop Sleeve,1,34.72,0.0,34.72,5.58,0.92,Bank Transfer,Completed
+ORD-10437,2023-02-06,Laura Davis,United States,Office Supplies,Ergonomic Mouse,1,88.3,0.15,75.05,5.69,20.93,Stripe,Completed
+ORD-10595,2023-03-16,Daniel Taylor,United Kingdom,Books,Python Cookbook,1,49.53,0.0,49.53,12.07,8.64,Bank Transfer,Completed
+ORD-10163,2023-09-27,Julia Jones,Canada,Accessories,Travel Adapter,1,11.75,0.0,11.75,6.65,-4.37,Bank Transfer,Completed
+ORD-10082,2024-11-30,Thomas Williams,France,Electronics,Wireless Headphones,1,51.15,0.0,51.15,12.11,6.22,Bank Transfer,Completed
+ORD-10257,2024-11-05,Sophie Taylor,United States,Books,Data Science Handbook,1,35.95,0.1,32.36,11.95,0.32,PayPal,Pending
+ORD-10192,2023-03-29,Thomas Johnson,Netherlands,Software,Cloud Storage Plan,1,79.79,0.0,79.79,10.16,19.7,PayPal,Completed
+ORD-10453,2023-04-16,Megan Garcia,United States,Software,Design Suite,1,78.94,0.0,78.94,11.84,19.32,Stripe,Cancelled
+ORD-10132,2023-04-04,Sophie Williams,United States,Office Supplies,Monitor Stand,3,87.48,0.05,249.32,0.0,74.23,PayPal,Completed
+ORD-10515,2024-08-13,Maria Williams,Sweden,Software,VPN Subscription,1,32.03,0.2,25.62,6.3,-1.31,Bank Transfer,Cancelled
+ORD-10441,2023-06-01,Ryan Davis,United States,Electronics,Bluetooth Speaker,3,113.81,0.2,273.14,0.0,88.42,Stripe,Completed
+ORD-10275,2024-07-03,Anna Wilson,United Kingdom,Office Supplies,Ergonomic Mouse,2,64.69,0.1,116.44,0.0,43.5,PayPal,Refunded
+ORD-10364,2023-11-20,Kevin Johnson,United Kingdom,Office Supplies,Desk Organizer,1,60.7,0.1,54.63,12.82,-2.97,Stripe,Completed
+ORD-10029,2024-08-26,Robert Miller,United Kingdom,Books,Excel Mastery,1,20.04,0.05,19.04,10.96,-6.91,Bank Transfer,Completed
+ORD-10506,2024-09-02,Laura Smith,Netherlands,Software,Cloud Storage Plan,1,43.12,0.0,43.12,12.5,-1.15,Stripe,Pending
+ORD-10570,2024-11-22,Daniel Miller,Spain,Books,Excel Mastery,5,34.01,0.1,153.04,0.0,61.11,Stripe,Refunded
+ORD-10024,2024-12-19,Laura Davis,Germany,Books,Python Cookbook,3,19.47,0.05,55.49,8.53,5.16,Stripe,Refunded
+ORD-10182,2024-05-15,Laura Brown,Sweden,Office Supplies,Desk Organizer,1,87.02,0.0,87.02,11.41,19.17,Bank Transfer,Pending
+ORD-10473,2024-01-27,Julia Garcia,United States,Books,Excel Mastery,1,48.88,0.0,48.88,7.02,8.69,Stripe,Completed
+ORD-10104,2024-02-15,Maria Williams,United Kingdom,Electronics,USB-C Hub,1,64.65,0.05,61.42,9.88,8.13,Stripe,Cancelled
+ORD-10063,2023-02-16,Megan Davis,United States,Office Supplies,Mechanical Keyboard,1,29.79,0.05,28.3,11.07,-1.52,Stripe,Completed
+ORD-10490,2023-10-13,Ryan Brown,United States,Electronics,Wireless Headphones,1,171.93,0.1,154.74,0.0,58.4,PayPal,Refunded
+ORD-10245,2023-08-08,James Johnson,France,Electronics,Webcam,1,175.61,0.0,175.61,0.0,36.61,Credit Card,Completed
+ORD-10248,2024-08-07,Robert Taylor,Canada,Office Supplies,Monitor Stand,1,27.3,0.0,27.3,10.72,-1.08,Stripe,Completed
+ORD-10101,2023-08-23,Linda Taylor,United States,Software,VPN Subscription,4,32.29,0.0,129.16,0.0,42.36,Stripe,Cancelled
+ORD-10555,2023-11-05,Kevin Taylor,United Kingdom,Office Supplies,Ergonomic Mouse,3,18.15,0.0,54.45,5.02,7.7,Bank Transfer,Completed
+ORD-10591,2023-02-17,Linda Taylor,United Kingdom,Electronics,Wireless Headphones,1,57.9,0.0,57.9,8.38,10.46,Bank Transfer,Completed
+ORD-10356,2023-09-02,Kevin Garcia,United States,Accessories,Phone Case,2,32.48,0.1,58.46,10.74,1.52,PayPal,Completed
+ORD-10209,2023-07-25,Robert Brown,United States,Software,Design Suite,4,35.85,0.0,143.4,0.0,34.87,PayPal,Completed
+ORD-10165,2023-07-02,Chris Taylor,United States,Software,Antivirus Annual,2,67.98,0.1,122.36,0.0,41.88,Stripe,Completed
+ORD-10137,2023-06-13,Laura Garcia,United States,Software,Project Mgmt License,1,48.68,0.0,48.68,5.07,5.69,Credit Card,Completed
+ORD-10195,2024-06-29,Thomas Taylor,United Kingdom,Books,Python Cookbook,3,25.72,0.05,73.3,7.56,10.39,Bank Transfer,Completed
+ORD-10076,2024-01-15,Julia Taylor,Australia,Software,Antivirus Annual,1,53.06,0.15,45.1,5.14,5.31,Bank Transfer,Completed
+ORD-10176,2023-06-15,Linda Wilson,United States,Books,Data Science Handbook,1,22.69,0.0,22.69,5.47,2.91,Stripe,Refunded
+ORD-10329,2024-06-04,Julia Wilson,Germany,Electronics,Bluetooth Speaker,1,119.44,0.0,119.44,0.0,39.42,Bank Transfer,Completed
+ORD-10536,2023-11-04,Sarah Williams,Germany,Accessories,Screen Protector,2,9.22,0.1,16.6,9.49,-5.3,Stripe,Completed
+ORD-10548,2024-03-06,Chris Smith,Spain,Software,Project Mgmt License,4,36.41,0.15,123.79,0.0,42.88,Bank Transfer,Cancelled
+ORD-10070,2024-01-25,Chris Johnson,United States,Electronics,USB-C Hub,1,191.09,0.0,191.09,0.0,44.79,Credit Card,Completed
+ORD-10561,2023-08-04,Megan Wilson,Australia,Software,Design Suite,2,21.71,0.0,43.42,12.05,3.59,Bank Transfer,Completed
+ORD-10589,2023-05-31,Maria Brown,Canada,Office Supplies,Desk Organizer,1,16.77,0.1,15.09,7.64,-4.05,PayPal,Refunded
+ORD-10081,2024-12-19,Julia Davis,Australia,Electronics,Wireless Headphones,4,83.64,0.0,334.56,0.0,92.2,PayPal,Cancelled
+ORD-10316,2023-03-01,Laura Jones,Canada,Electronics,Bluetooth Speaker,2,69.57,0.0,139.14,0.0,41.53,Bank Transfer,Completed
+ORD-10304,2023-09-29,Kevin Garcia,United States,Electronics,LED Desk Lamp,1,57.76,0.0,57.76,7.02,15.01,Bank Transfer,Completed
+ORD-10223,2023-05-23,James Johnson,Netherlands,Software,Design Suite,5,47.38,0.15,201.37,0.0,64.85,Stripe,Pending
+ORD-10423,2024-10-14,Chris Miller,Canada,Software,Antivirus Annual,3,62.3,0.0,186.9,0.0,54.04,Stripe,Cancelled
+ORD-10374,2024-06-02,David Jones,Germany,Electronics,USB-C Hub,1,190.35,0.1,171.31,0.0,54.44,Stripe,Completed
+ORD-10429,2024-03-13,Emma Wilson,Sweden,Electronics,LED Desk Lamp,1,101.41,0.1,91.27,5.16,15.41,Bank Transfer,Completed
+ORD-10537,2024-06-03,Kevin Jones,Spain,Electronics,LED Desk Lamp,1,145.95,0.0,145.95,0.0,35.43,Bank Transfer,Cancelled
+ORD-10312,2023-06-08,James Davis,United States,Office Supplies,Monitor Stand,1,54.24,0.1,48.82,6.08,6.07,Credit Card,Refunded
+ORD-10238,2023-12-05,Kevin Jones,United States,Accessories,Laptop Sleeve,1,21.81,0.1,19.63,5.8,-1.06,PayPal,Completed
+ORD-10559,2023-11-08,Nicole Miller,United States,Accessories,Phone Case,4,11.52,0.0,46.08,9.25,6.72,Credit Card,Completed
+ORD-10432,2023-04-25,Kevin Wilson,United States,Software,Design Suite,1,49.36,0.0,49.36,7.53,5.43,Credit Card,Completed
+ORD-10286,2023-04-11,James Taylor,United States,Books,Data Science Handbook,4,28.11,0.0,112.44,0.0,39.38,Stripe,Cancelled
+ORD-10426,2024-03-28,Michael Brown,United States,Software,Antivirus Annual,1,47.76,0.05,45.37,10.89,5.47,Stripe,Cancelled
+ORD-10598,2024-10-06,Linda Wilson,Spain,Office Supplies,Notebook Set,1,83.24,0.15,70.75,6.32,13.66,Stripe,Pending
+ORD-10361,2024-10-22,David Jones,Germany,Software,VPN Subscription,2,77.63,0.1,139.73,0.0,37.23,Credit Card,Completed
+ORD-10073,2024-10-12,Robert Smith,Australia,Office Supplies,Monitor Stand,2,46.39,0.0,92.78,6.59,23.57,Credit Card,Cancelled
+ORD-10039,2023-12-11,Sarah Smith,Canada,Electronics,Bluetooth Speaker,2,152.55,0.05,289.85,0.0,110.49,Bank Transfer,Pending
+ORD-10155,2024-10-18,James Brown,Canada,Software,Antivirus Annual,1,12.03,0.05,11.43,6.57,-2.89,Credit Card,Completed
+ORD-10218,2024-04-07,Michael Brown,United States,Office Supplies,Mechanical Keyboard,2,45.24,0.1,81.43,9.18,16.59,Stripe,Completed
+ORD-10370,2023-04-13,Megan Wilson,United States,Electronics,USB-C Hub,1,36.35,0.0,36.35,5.73,5.23,Stripe,Cancelled
+ORD-10210,2024-12-31,Daniel Wilson,United States,Accessories,Phone Case,1,22.61,0.2,18.09,9.71,-4.05,Stripe,Cancelled
+ORD-10235,2023-08-23,James Jones,United States,Software,Project Mgmt License,1,41.09,0.0,41.09,7.01,7.31,Bank Transfer,Completed
+ORD-10546,2023-05-11,Megan Miller,Spain,Books,Business Analytics,4,20.27,0.0,81.08,5.49,21.27,Bank Transfer,Completed
+ORD-10060,2023-07-16,Laura Smith,Germany,Office Supplies,Mechanical Keyboard,3,75.46,0.0,226.38,0.0,87.57,Bank Transfer,Completed
+ORD-10300,2023-06-18,Kevin Johnson,United Kingdom,Electronics,Webcam,2,115.41,0.0,230.82,0.0,79.57,Credit Card,Completed
+ORD-10259,2023-12-29,Linda Davis,Canada,Electronics,Webcam,1,56.12,0.0,56.12,5.4,17.26,Credit Card,Refunded
+ORD-10280,2023-10-13,,United States,Software,Design Suite,1,68.33,0.0,68.33,5.34,16.36,Credit Card,Completed
+ORD-10228,2024-08-25,Alex Johnson,France,Software,Design Suite,1,70.64,0.05,67.11,12.54,0.69,Bank Transfer,Completed
+ORD-10011,2024-08-27,Sophie Davis,Canada,Office Supplies,Desk Organizer,1,63.56,0.0,63.56,8.35,10.57,Bank Transfer,Completed
+ORD-10412,2024-05-15,Megan Williams,United States,Electronics,Wireless Headphones,1,140.79,0.15,119.67,0.0,33.49,Stripe,Cancelled
+ORD-10272,2024-10-25,Linda Jones,United States,Accessories,Laptop Sleeve,2,30.19,0.05,57.36,7.56,3.87,PayPal,Pending
+ORD-10090,2023-06-17,Chris Wilson,France,Office Supplies,Desk Organizer,1,87.92,0.05,83.52,8.59,20.08,PayPal,Completed
+ORD-10208,2024-12-07,Daniel Davis,United States,Electronics,Wireless Headphones,2,196.09,0.0,392.18,0.0,81.46,Credit Card,Cancelled
+ORD-10538,2023-11-13,James Williams,United States,Electronics,LED Desk Lamp,4,52.72,0.15,179.25,0.0,58.46,Stripe,Completed
+ORD-10335,2024-11-22,Emma Taylor,Sweden,Electronics,Wireless Headphones,1,179.55,0.0,179.55,0.0,72.41,Stripe,Completed
+ORD-10079,2024-11-17,Sarah Taylor,United States,Office Supplies,Desk Organizer,1,42.99,0.1,38.69,7.85,-0.26,Credit Card,Completed
+ORD-10434,2024-12-08,Maria Williams,Canada,Accessories,Travel Adapter,3,27.66,0.15,70.53,7.7,6.9,Credit Card,Completed
+ORD-10140,2024-09-02,David Garcia,Australia,Office Supplies,Mechanical Keyboard,2,20.87,0.1,37.57,7.76,-0.12,Stripe,Completed
+ORD-10281,2024-04-18,Linda Johnson,Germany,Electronics,Bluetooth Speaker,1,194.76,0.05,185.02,0.0,72.31,Stripe,Pending
+ORD-10268,2023-03-04,Linda Brown,Germany,Books,Data Science Handbook,2,17.55,0.0,35.1,9.76,1.08,Bank Transfer,Completed
+ORD-10414,2023-02-22,Michael Jones,Spain,Electronics,LED Desk Lamp,2,176.65,0.2,282.64,0.0,85.3,PayPal,Completed
+ORD-10199,2024-05-01,,United States,Electronics,Bluetooth Speaker,1,86.38,0.05,82.06,11.44,10.04,PayPal,Completed
+ORD-10464,2023-07-03,Laura Brown,United States,Electronics,Bluetooth Speaker,2,160.02,0.0,320.04,0.0,104.83,Credit Card,Completed
+ORD-10575,2024-11-05,Sophie Jones,Netherlands,Office Supplies,Notebook Set,1,58.2,0.1,52.38,7.29,13.21,PayPal,Completed
+ORD-10584,2023-08-29,Nicole Garcia,United Kingdom,Office Supplies,Ergonomic Mouse,1,44.18,0.0,44.18,5.52,11.07,Stripe,Pending
+ORD-10371,2023-03-17,Michael Smith,United States,Software,VPN Subscription,1,63.85,0.0,63.85,12.85,6.55,Credit Card,Completed
+ORD-10399,2023-04-20,Thomas Jones,United States,Accessories,Screen Protector,1,33.27,0.05,31.61,12.37,-4.58,Credit Card,Completed
+ORD-10340,2023-09-10,Linda Smith,United States,Electronics,USB-C Hub,2,44.58,0.1,80.24,6.93,19.47,Bank Transfer,Completed
+ORD-10148,2024-07-20,Kevin Brown,United States,Office Supplies,Notebook Set,5,28.48,0.1,128.16,0.0,23.9,Credit Card,Pending
+ORD-10494,2024-02-14,Daniel Jones,Spain,Electronics,Bluetooth Speaker,3,45.15,0.15,115.13,0.0,25.23,PayPal,Cancelled
+ORD-10439,2024-08-19,Daniel Jones,United Kingdom,Software,Cloud Storage Plan,2,59.71,0.1,107.48,0.0,22.88,Bank Transfer,Completed
+ORD-10145,2024-04-24,Megan Taylor,United States,Office Supplies,Desk Organizer,1,35.69,0.0,35.69,11.25,-1.73,PayPal,Completed
+ORD-10009,2024-07-12,Anna Jones,United Kingdom,Software,Antivirus Annual,1,35.81,0.05,34.02,,-0.71,Bank Transfer,Cancelled
+ORD-10375,2023-09-29,Ryan Davis,United Kingdom,Electronics,Wireless Headphones,2,48.0,0.0,96.0,8.4,13.0,PayPal,Refunded
+ORD-10523,2024-07-05,Sarah Taylor,France,Electronics,LED Desk Lamp,1,66.14,0.0,66.14,10.96,15.93,Bank Transfer,Completed
+ORD-10188,2023-03-01,David Brown,Sweden,Electronics,USB-C Hub,1,171.41,0.0,171.41,0.0,49.48,Credit Card,Completed
+ORD-10131,2024-05-20,Chris Brown,Australia,Electronics,Bluetooth Speaker,1,124.05,0.05,117.85,0.0,41.58,PayPal,Completed
+ORD-10572,2024-06-07,Kevin Smith,United States,Electronics,Bluetooth Speaker,5,78.24,0.0,391.2,,132.34,Bank Transfer,Completed
+ORD-10298,2024-02-15,,France,Electronics,Bluetooth Speaker,3,90.51,0.1,244.38,0.0,51.02,Credit Card,Completed
+ORD-10586,2023-11-14,,United States,Software,Antivirus Annual,2,71.87,0.0,143.74,0.0,55.25,Stripe,Completed
+ORD-10446,2024-01-09,Nicole Wilson,United States,Office Supplies,Ergonomic Mouse,1,16.29,0.0,16.29,10.52,-7.04,Bank Transfer,Completed
+ORD-10084,2023-03-15,Maria Johnson,United Kingdom,Software,Cloud Storage Plan,2,73.8,0.05,140.22,0.0,39.88,PayPal,Pending
+ORD-10592,2023-09-08,Laura Williams,United States,Accessories,Laptop Sleeve,5,18.74,0.0,93.7,8.52,19.71,Credit Card,Pending
+ORD-10177,2024-07-06,Julia Garcia,Germany,Electronics,LED Desk Lamp,1,44.2,0.0,44.2,12.36,5.93,Credit Card,Completed
+ORD-10153,2024-07-03,Kevin Garcia,United States,Accessories,Screen Protector,1,29.17,0.05,27.71,7.78,-2.14,Credit Card,Pending
+ORD-10452,2024-11-13,Sarah Miller,Germany,Electronics,Wireless Headphones,1,91.4,0.0,91.4,10.77,7.49,Bank Transfer,Completed
+ORD-10196,2023-05-09,Emma Jones,Germany,Electronics,Webcam,3,199.92,0.2,479.81,0.0,97.9,Credit Card,Pending
+ORD-10075,2023-06-16,Thomas Williams,Germany,Office Supplies,Desk Organizer,1,89.58,0.0,89.58,5.22,30.92,Stripe,Cancelled
+ORD-10092,2024-01-24,Nicole Taylor,Germany,Electronics,USB-C Hub,1,138.96,0.05,132.01,0.0,42.16,Credit Card,Completed
+ORD-10296,2024-05-07,David Miller,France,Software,Antivirus Annual,1,34.71,0.05,32.97,10.6,-2.58,Credit Card,Completed
+ORD-10068,2023-08-27,David Taylor,Canada,Office Supplies,Notebook Set,1,69.27,0.05,65.81,12.24,13.4,Bank Transfer,Completed
+ORD-10015,2023-04-06,Robert Jones,United Kingdom,Office Supplies,Notebook Set,2,40.77,0.2,65.23,9.39,7.86,PayPal,Completed
+ORD-10204,2024-09-13,Sophie Wilson,Australia,Office Supplies,Ergonomic Mouse,1,47.86,0.0,47.86,6.32,7.05,PayPal,Completed
+ORD-10158,2023-10-28,Anna Wilson,Germany,Office Supplies,Mechanical Keyboard,1,25.33,0.0,25.33,6.48,1.94,PayPal,Pending
+ORD-10088,2024-06-30,Anna Garcia,Canada,Books,Python Cookbook,2,33.34,0.0,66.68,7.39,7.13,PayPal,Pending
+ORD-10497,2023-12-06,Megan Jones,Sweden,Software,Antivirus Annual,2,55.3,0.0,110.6,0.0,32.34,Bank Transfer,Completed
+ORD-10117,2023-09-29,Julia Williams,Canada,Office Supplies,Notebook Set,1,57.3,0.0,57.3,9.37,7.9,Stripe,Refunded
+ORD-10382,2023-06-11,Ryan Jones,United Kingdom,Accessories,Screen Protector,1,24.61,0.0,24.61,6.64,2.97,Bank Transfer,Completed
+ORD-10405,2023-08-04,Sophie Davis,Spain,Electronics,Wireless Headphones,2,80.8,0.0,161.6,0.0,33.23,PayPal,Pending
+ORD-10033,2024-12-15,Julia Miller,United States,Electronics,USB-C Hub,2,140.46,0.15,238.78,0.0,91.83,Stripe,Cancelled
+ORD-10000,2024-10-16,Sarah Miller,United Kingdom,Electronics,Webcam,1,141.52,0.0,141.52,0.0,50.98,Stripe,Cancelled
+ORD-10593,2024-05-01,Daniel Davis,France,Accessories,Laptop Sleeve,3,32.87,0.05,93.68,6.21,26.99,Stripe,Completed
+ORD-10531,2023-12-05,Daniel Johnson,Canada,Electronics,Webcam,1,193.38,0.0,193.38,0.0,67.91,Bank Transfer,Completed
+ORD-10353,2023-07-29,Maria Wilson,United Kingdom,Office Supplies,Desk Organizer,4,80.82,0.0,323.28,0.0,99.92,Credit Card,Pending
+ORD-10332,2023-03-12,Emma Brown,Poland,Electronics,Wireless Headphones,2,117.98,0.2,188.77,,47.65,Bank Transfer,Completed
+ORD-10534,2024-11-10,Anna Brown,United Kingdom,Office Supplies,Desk Organizer,3,52.52,0.1,141.8,0.0,30.37,Stripe,Refunded
+ORD-10244,2024-05-12,Alex Brown,France,Office Supplies,Desk Organizer,3,20.6,0.0,61.8,6.92,18.59,PayPal,Completed
+ORD-10022,2023-07-23,Ryan Jones,United States,Office Supplies,Notebook Set,1,34.91,0.0,34.91,5.47,7.45,Bank Transfer,Refunded
+ORD-10440,2024-07-19,Megan Johnson,United Kingdom,Accessories,Cable Organizer,2,14.05,0.1,25.29,6.22,0.15,Stripe,Pending
+ORD-10116,2023-05-27,Julia Brown,Spain,Software,Antivirus Annual,1,41.84,0.2,33.47,7.98,3.68,Credit Card,Completed
+ORD-10089,2023-09-08,David Johnson,Australia,Accessories,Screen Protector,1,22.95,0.0,22.95,11.42,-4.25,Stripe,Refunded
+ORD-10365,2023-03-16,Linda Jones,United States,Office Supplies,Monitor Stand,3,30.92,0.05,88.12,10.51,10.73,Credit Card,Completed
+ORD-10211,2023-11-16,Ryan Taylor,United Kingdom,Software,Antivirus Annual,1,73.18,0.1,65.86,9.01,17.08,Stripe,Cancelled
+ORD-10018,2024-06-01,David Miller,United States,Accessories,Travel Adapter,1,17.19,0.2,13.75,7.01,-1.69,Credit Card,Completed
+ORD-10407,2023-07-28,Alex Davis,United States,Books,Data Science Handbook,1,42.14,0.0,42.14,5.94,9.81,PayPal,Pending
+ORD-10320,2023-11-18,Maria Taylor,Canada,Books,Excel Mastery,1,19.18,0.0,19.18,5.95,1.13,PayPal,Completed
+ORD-10144,2024-09-02,Alex Williams,United Kingdom,Electronics,Webcam,1,183.18,0.15,155.7,0.0,64.58,Bank Transfer,Refunded
+ORD-10289,2024-07-07,Maria Williams,United States,Office Supplies,Mechanical Keyboard,2,73.95,0.1,133.11,0.0,43.58,Credit Card,Pending
+ORD-10274,2023-07-14,Emma Taylor,United States,Books,SQL Guide,4,32.96,0.05,125.25,0.0,27.01,Stripe,Completed
+ORD-10541,2023-12-01,James Brown,United States,Accessories,Screen Protector,1,17.79,0.0,17.79,12.23,-6.01,Credit Card,Completed
+ORD-10360,2024-11-18,Maria Johnson,United States,Electronics,USB-C Hub,3,143.38,0.1,387.13,0.0,97.41,Bank Transfer,Completed
+ORD-10250,2024-04-29,Ryan Williams,Germany,Books,Data Science Handbook,1,47.6,0.1,42.84,8.85,4.09,Stripe,Completed
+ORD-10287,2023-02-21,Sophie Taylor,United Kingdom,Software,Cloud Storage Plan,1,39.82,0.05,37.83,7.08,4.6,PayPal,Refunded
+ORD-10574,2024-03-17,Michael Davis,Canada,Software,Project Mgmt License,1,76.85,0.05,73.01,,18.87,PayPal,Refunded
+ORD-10400,2024-07-20,Nicole Miller,Poland,Office Supplies,Monitor Stand,1,75.95,0.0,75.95,5.55,25.97,PayPal,Completed
+ORD-10167,2023-04-19,Michael Davis,Canada,Software,Design Suite,2,69.5,0.1,125.1,0.0,34.46,Bank Transfer,Completed
+ORD-10054,2024-07-19,Sarah Garcia,Spain,Accessories,Phone Case,2,17.48,0.05,33.21,6.69,4.52,Bank Transfer,Completed
+ORD-10493,2024-06-05,David Wilson,United States,Office Supplies,Notebook Set,3,75.11,0.0,225.33,0.0,83.72,Stripe,Pending
+ORD-10046,2024-09-10,Nicole Smith,United States,Electronics,USB-C Hub,1,174.16,0.0,174.16,0.0,59.05,PayPal,Pending
+ORD-10093,2023-10-04,Laura Taylor,United States,Accessories,Phone Case,4,28.81,0.0,115.24,0.0,26.57,Bank Transfer,Refunded
+ORD-10264,2024-11-20,Chris Smith,Germany,Accessories,Screen Protector,2,34.35,0.1,61.83,10.16,14.91,Credit Card,Pending
+ORD-10108,2024-08-03,Chris Johnson,Canada,Office Supplies,Desk Organizer,2,31.04,0.1,55.87,7.16,10.43,PayPal,Completed
+ORD-10272,2023-09-12,Linda Davis,United States,Software,Design Suite,1,57.56,0.0,57.56,8.83,7.68,Credit Card,Cancelled
+ORD-10599,2024-08-12,Sophie Williams,Australia,Software,Design Suite,4,70.85,0.0,283.4,0.0,89.96,Stripe,Cancelled
+ORD-10479,2023-12-25,Chris Taylor,Canada,Electronics,Bluetooth Speaker,1,43.97,0.0,43.97,9.12,9.03,Bank Transfer,Cancelled
+ORD-10436,2024-07-12,Sophie Miller,Spain,Software,Project Mgmt License,1,44.32,0.05,42.1,9.08,-0.94,Bank Transfer,Pending
+ORD-10383,2024-03-24,,United States,Books,SQL Guide,5,27.95,0.0,139.75,0.0,35.02,Bank Transfer,Completed
+ORD-10380,2024-01-14,Ryan Taylor,United States,Office Supplies,Mechanical Keyboard,2,70.44,0.1,126.79,0.0,48.28,Stripe,Completed
+ORD-10462,2024-02-27,David Jones,Poland,Electronics,USB-C Hub,1,39.59,0.0,39.59,6.87,3.22,Bank Transfer,Completed
+ORD-10394,2024-11-10,Daniel Miller,United States,Software,Project Mgmt License,1,43.33,0.0,43.33,12.58,4.81,Stripe,Completed
+ORD-10265,2024-10-31,Kevin Miller,Australia,Electronics,Bluetooth Speaker,2,127.73,0.0,255.46,,61.84,Credit Card,Completed
+ORD-10480,2023-11-09,Sophie Williams,United States,Office Supplies,Mechanical Keyboard,2,77.0,0.1,138.6,0.0,31.56,PayPal,Completed
+ORD-10517,2023-09-18,Alex Wilson,Australia,Software,Design Suite,4,15.89,0.05,60.38,8.11,13.18,Bank Transfer,Completed
+ORD-10069,2023-04-14,Alex Johnson,United States,Books,Business Analytics,2,16.12,0.05,30.63,10.14,-2.21,Bank Transfer,Completed
+ORD-10231,2023-03-14,,United Kingdom,Office Supplies,Desk Organizer,1,29.95,0.0,29.95,,2.61,PayPal,Cancelled
+ORD-10403,2023-10-16,Megan Johnson,France,Office Supplies,Desk Organizer,3,73.89,0.05,210.59,0.0,38.07,Bank Transfer,Pending
+ORD-10278,2024-03-08,,Germany,Office Supplies,Ergonomic Mouse,1,83.03,0.05,78.88,7.81,22.82,Stripe,Completed
+ORD-10472,2023-04-21,Thomas Garcia,Sweden,Office Supplies,Notebook Set,4,33.88,0.15,115.19,0.0,27.32,PayPal,Completed
+ORD-10350,2024-06-19,Megan Davis,United States,Office Supplies,Desk Organizer,3,50.15,0.05,142.93,0.0,32.04,Credit Card,Completed
+ORD-10509,2023-11-18,Sophie Williams,Sweden,Electronics,Webcam,1,69.89,0.05,66.4,12.98,4.69,Credit Card,Completed
+ORD-10149,2023-01-12,David Davis,Canada,Accessories,Laptop Sleeve,1,16.17,0.0,16.17,6.22,-1.67,Stripe,Completed
+ORD-10124,2024-03-14,Thomas Brown,United States,Electronics,USB-C Hub,4,127.93,0.05,486.13,0.0,177.64,PayPal,Cancelled
+ORD-10428,2024-12-23,Chris Davis,United States,Electronics,Webcam,1,60.39,0.2,48.31,5.61,5.0,Credit Card,Completed
+ORD-10465,2023-12-07,Ryan Johnson,United States,Accessories,Travel Adapter,1,16.02,0.05,15.22,11.43,-6.41,Stripe,Completed
+ORD-10185,2024-01-07,,Australia,Software,VPN Subscription,1,10.44,0.0,10.44,6.85,-4.1,Bank Transfer,Cancelled
+ORD-10227,2023-08-24,Linda Miller,Australia,Software,VPN Subscription,1,57.57,0.0,57.57,5.7,9.57,Bank Transfer,Pending
+ORD-10291,2023-04-06,Nicole Wilson,Canada,Books,Excel Mastery,1,20.45,0.05,19.43,11.42,-6.59,PayPal,Completed
+ORD-10247,2023-05-16,Thomas Garcia,Germany,Software,VPN Subscription,2,35.42,0.0,70.84,5.77,18.18,Bank Transfer,Completed
+ORD-10290,2023-01-16,Daniel Taylor,Sweden,Accessories,Laptop Sleeve,1,9.72,0.0,9.72,5.63,-3.79,Credit Card,Completed
+ORD-10249,2024-08-13,Kevin Davis,Canada,Electronics,Bluetooth Speaker,1,100.45,0.15,85.38,11.69,15.74,PayPal,Cancelled
+ORD-10443,2023-05-11,Sarah Taylor,United States,Software,Cloud Storage Plan,1,54.72,0.0,54.72,6.54,11.56,Bank Transfer,Cancelled
+ORD-10551,2024-11-24,Robert Garcia,Canada,Electronics,LED Desk Lamp,2,172.92,0.15,293.96,0.0,61.8,Stripe,Refunded
+ORD-10552,2023-06-28,Ryan Wilson,Australia,Electronics,Bluetooth Speaker,1,82.97,0.0,82.97,12.67,17.29,Bank Transfer,Completed
+ORD-10550,2024-01-24,James Davis,Australia,Office Supplies,Desk Organizer,4,61.43,0.0,245.72,0.0,99.52,Credit Card,Cancelled
+ORD-10114,2024-10-20,Thomas Jones,United Kingdom,Electronics,Bluetooth Speaker,4,31.15,0.0,124.6,0.0,35.79,Bank Transfer,Completed
+ORD-10203,2024-06-24,,Sweden,Software,Project Mgmt License,1,62.16,0.0,62.16,12.85,0.84,Credit Card,Completed
+ORD-10141,2023-03-07,Anna Taylor,United States,Books,Python Cookbook,1,49.72,0.0,49.72,7.84,12.34,Bank Transfer,Completed
+ORD-10338,2023-05-03,Emma Johnson,Germany,Accessories,Laptop Sleeve,1,25.6,0.0,25.6,9.92,-0.79,Credit Card,Completed
+ORD-10007,2023-04-15,Laura Jones,United Kingdom,Electronics,USB-C Hub,1,85.55,0.1,77.0,8.02,19.74,Credit Card,Cancelled
+ORD-10521,2023-01-02,David Garcia,Canada,Office Supplies,Mechanical Keyboard,3,21.14,0.0,63.42,12.1,6.56,Stripe,Completed
+ORD-10019,2024-09-08,Emma Wilson,Sweden,Electronics,LED Desk Lamp,1,72.18,0.05,68.57,8.32,13.83,Bank Transfer,Refunded
+ORD-10172,2024-09-15,Michael Williams,Canada,Electronics,Bluetooth Speaker,2,41.62,0.05,79.08,9.87,7.48,Stripe,Completed
+ORD-10451,2023-09-13,Laura Brown,United Kingdom,Books,Business Analytics,2,29.26,0.2,46.82,6.44,5.97,Bank Transfer,Completed
+ORD-10056,2024-10-05,James Johnson,United States,Books,Python Cookbook,3,33.94,0.0,101.82,0.0,21.79,Stripe,Pending
+ORD-10301,2024-01-24,Megan Taylor,United Kingdom,Electronics,Bluetooth Speaker,1,91.46,0.15,77.74,6.49,12.41,Stripe,Completed
+ORD-10336,2023-08-29,Daniel Davis,United States,Electronics,LED Desk Lamp,2,55.42,0.05,105.3,0.0,24.53,Credit Card,Completed
+ORD-10450,2024-11-29,Julia Smith,United States,Office Supplies,Ergonomic Mouse,2,16.04,0.0,32.08,6.52,1.42,PayPal,Cancelled
+ORD-10322,2023-02-21,Michael Smith,United States,Electronics,Bluetooth Speaker,2,139.58,0.0,279.16,0.0,110.0,PayPal,Pending
+ORD-10310,2024-11-08,Julia Jones,Germany,Software,Antivirus Annual,1,12.45,0.0,12.45,12.31,-7.49,PayPal,Completed
+ORD-10049,2024-04-15,Alex Jones,United Kingdom,Software,Design Suite,1,51.55,0.0,51.55,6.76,10.13,Credit Card,Pending
+ORD-10344,2024-09-26,Sophie Garcia,United States,Software,Project Mgmt License,4,31.33,0.0,125.32,0.0,44.95,Bank Transfer,Completed
+ORD-10025,2024-07-12,Maria Davis,France,Office Supplies,Ergonomic Mouse,1,67.02,0.0,67.02,12.55,12.6,Credit Card,Refunded
+ORD-10442,2024-03-16,Chris Garcia,United Kingdom,Books,Data Science Handbook,2,13.64,0.0,27.28,9.64,-3.77,Stripe,Completed
+ORD-10220,2023-09-11,James Miller,Germany,Books,Business Analytics,1,19.04,0.15,16.18,10.98,-5.39,PayPal,Completed
+ORD-10483,2023-01-25,Laura Williams,United Kingdom,Electronics,Webcam,1,65.11,0.0,65.11,11.58,11.5,Bank Transfer,Completed
+ORD-10540,2024-02-23,Sophie Brown,United States,Office Supplies,Ergonomic Mouse,1,29.46,0.0,29.46,10.94,-0.27,Bank Transfer,Pending
+ORD-10042,2024-01-25,Daniel Garcia,United States,Electronics,Webcam,2,107.3,0.05,203.87,0.0,69.59,Credit Card,Refunded
+ORD-10416,2024-10-11,Kevin Taylor,Sweden,Electronics,Wireless Headphones,1,163.52,0.0,163.52,0.0,33.99,Bank Transfer,Completed
+ORD-10261,2024-02-25,James Johnson,United States,Office Supplies,Monitor Stand,3,54.78,0.2,131.47,0.0,49.65,PayPal,Pending
+ORD-10408,2024-12-04,,Sweden,Software,Antivirus Annual,1,19.9,0.05,18.9,8.76,-1.19,Bank Transfer,Completed
+ORD-10277,2023-05-24,Robert Taylor,United States,Books,Data Science Handbook,2,16.81,0.2,26.9,10.06,-3.45,Stripe,Pending
+ORD-10569,2024-03-28,Julia Jones,United Kingdom,Office Supplies,Ergonomic Mouse,2,41.59,0.0,83.18,,21.6,Credit Card,Cancelled
+ORD-10381,2023-10-19,Maria Johnson,United States,Electronics,Webcam,1,168.38,0.1,151.54,0.0,41.06,Credit Card,Completed
+ORD-10411,2024-06-01,Nicole Miller,United States,Electronics,Webcam,1,58.04,0.0,58.04,,2.66,Stripe,Cancelled
+ORD-10154,2023-10-01,Thomas Wilson,Canada,Electronics,USB-C Hub,2,57.93,0.2,92.69,6.94,13.63,Stripe,Completed
+ORD-10126,2024-02-13,Linda Williams,Canada,Accessories,Cable Organizer,1,16.09,0.0,16.09,9.29,-5.46,Stripe,Completed
+ORD-10309,2024-07-23,Daniel Jones,Australia,Office Supplies,Ergonomic Mouse,2,89.69,0.0,179.38,0.0,58.9,Stripe,Completed
+ORD-10519,2024-12-26,James Davis,United Kingdom,Electronics,LED Desk Lamp,1,140.65,0.0,140.65,0.0,35.37,PayPal,Pending
+ORD-10445,2023-11-12,Alex Wilson,United States,Books,Excel Mastery,1,21.17,0.0,21.17,12.17,-5.24,Credit Card,Cancelled
+ORD-10174,2023-06-06,Maria Brown,France,Accessories,Phone Case,2,16.13,0.05,30.65,9.07,1.95,Stripe,Completed
+ORD-10031,2023-01-07,Daniel Miller,Poland,Books,Excel Mastery,1,27.16,0.15,23.09,8.28,-2.36,PayPal,Completed
+ORD-10113,2024-02-10,Daniel Miller,Australia,Software,Project Mgmt License,3,49.73,0.1,134.27,0.0,29.82,Credit Card,Cancelled
+ORD-10023,2024-10-27,James Johnson,Germany,Software,Cloud Storage Plan,1,15.62,0.0,15.62,8.45,-4.43,Credit Card,Completed
+ORD-10173,2023-07-23,Chris Brown,Netherlands,Accessories,Phone Case,1,11.32,0.1,10.19,7.8,-4.92,Bank Transfer,Cancelled
+ORD-10557,2024-07-15,,United States,Electronics,Wireless Headphones,1,67.21,0.0,67.21,6.38,19.39,Credit Card,Completed
+ORD-10066,2023-10-24,Thomas Johnson,Canada,Office Supplies,Notebook Set,1,50.66,0.0,50.66,5.48,4.9,PayPal,Cancelled
+ORD-10057,2024-09-25,Chris Williams,United Kingdom,Office Supplies,Mechanical Keyboard,2,73.25,0.05,139.17,0.0,27.89,Credit Card,Completed
+ORD-10321,2023-02-28,Maria Garcia,United States,Office Supplies,Ergonomic Mouse,1,66.44,0.0,66.44,12.75,11.32,Credit Card,Completed
+ORD-10222,2023-03-07,Sophie Davis,France,Electronics,LED Desk Lamp,1,194.38,0.05,184.66,0.0,52.02,Stripe,Completed
+ORD-10017,2023-08-27,Linda Williams,United States,Electronics,USB-C Hub,1,120.79,0.0,120.79,0.0,49.99,Credit Card,Refunded
+ORD-10299,2023-03-02,Alex Jones,Canada,Accessories,Cable Organizer,1,34.59,0.15,29.4,11.94,-3.18,PayPal,Cancelled
+ORD-10255,2023-04-07,Sarah Taylor,United States,Books,Python Cookbook,1,42.01,0.0,42.01,9.32,1.86,PayPal,Completed
+ORD-10305,2024-04-10,Julia Williams,United States,Office Supplies,Desk Organizer,3,87.22,0.0,261.66,0.0,83.26,Bank Transfer,Pending
+ORD-10573,2024-04-29,Michael Williams,United Kingdom,Accessories,Laptop Sleeve,5,11.48,0.0,57.4,10.94,4.75,Stripe,Cancelled
+ORD-10190,2024-08-03,Maria Jones,United States,Accessories,Travel Adapter,3,16.84,0.0,50.52,6.98,6.43,Credit Card,Refunded
+ORD-10318,2024-07-09,Michael Davis,United States,Accessories,Phone Case,3,14.71,0.1,39.72,8.53,5.65,PayPal,Completed
+ORD-10527,2024-01-08,James Taylor,United States,Office Supplies,Desk Organizer,1,65.27,0.0,65.27,7.21,5.93,Bank Transfer,Completed
+ORD-10271,2023-04-22,Thomas Miller,United States,Office Supplies,Desk Organizer,2,67.0,0.0,134.0,0.0,42.35,PayPal,Cancelled
+ORD-10094,2024-10-17,Anna Davis,United Kingdom,Software,Cloud Storage Plan,3,57.94,0.0,173.82,0.0,34.33,Bank Transfer,Completed
+ORD-10180,2024-09-05,David Davis,Australia,Software,Project Mgmt License,1,66.49,0.0,66.49,5.5,17.84,Stripe,Refunded
+ORD-10331,2023-07-10,Julia Jones,Australia,Accessories,Laptop Sleeve,1,27.59,0.05,26.21,9.5,-3.44,Stripe,Cancelled
+ORD-10328,2023-02-28,Linda Johnson,France,Software,Design Suite,3,14.07,0.05,40.1,9.22,5.06,Credit Card,Cancelled
+ORD-10311,2024-05-13,Megan Wilson,Canada,Software,Design Suite,2,49.47,0.05,93.99,10.11,13.79,Bank Transfer,Completed
+ORD-10005,2023-08-17,James Miller,Germany,Accessories,Laptop Sleeve,2,29.59,0.15,50.3,8.9,3.45,Stripe,Completed
+ORD-10045,2023-12-19,Emma Garcia,Germany,Software,Design Suite,4,29.57,0.05,112.37,0.0,26.09,Bank Transfer,Completed
+ORD-10398,2023-04-29,David Taylor,Canada,Electronics,LED Desk Lamp,3,191.57,0.05,545.97,0.0,191.06,PayPal,Completed
+ORD-10576,2023-03-28,Maria Brown,Netherlands,Office Supplies,Mechanical Keyboard,2,49.33,0.15,83.86,6.46,20.08,Bank Transfer,Completed
+ORD-10468,2023-09-12,David Brown,United Kingdom,Office Supplies,Monitor Stand,1,70.97,0.1,63.87,11.74,6.05,Bank Transfer,Cancelled
+ORD-10016,2023-08-12,Alex Taylor,Spain,Office Supplies,Notebook Set,2,29.36,0.1,52.85,7.2,9.79,PayPal,Cancelled
+ORD-10048,2023-02-14,Anna Jones,United States,Office Supplies,Mechanical Keyboard,3,24.88,0.0,74.64,11.3,12.68,Credit Card,Completed
+ORD-10579,2024-11-10,Chris Davis,United States,Software,Antivirus Annual,2,43.92,0.0,87.84,9.38,11.54,PayPal,Completed
+ORD-10487,2023-12-03,Robert Garcia,United States,Accessories,Screen Protector,2,19.68,0.0,39.36,7.5,8.83,Bank Transfer,Completed
+ORD-10003,2023-10-09,Michael Johnson,United States,Software,Antivirus Annual,1,47.8,0.0,47.8,6.84,9.72,Stripe,Pending
+ORD-10486,2024-02-13,Anna Jones,Germany,Electronics,LED Desk Lamp,1,97.09,0.0,97.09,12.73,17.78,Bank Transfer,Refunded
+ORD-10438,2024-01-14,David Taylor,United States,Software,Design Suite,2,16.02,0.0,32.04,8.79,3.65,Stripe,Completed
+ORD-10362,2023-11-04,Michael Taylor,United States,Accessories,Travel Adapter,1,11.28,0.15,9.59,7.62,-4.94,Credit Card,Completed
+ORD-10433,2023-03-19,Julia Wilson,Sweden,Books,Business Analytics,3,48.06,0.15,122.55,0.0,26.65,Stripe,Pending
+ORD-10302,2023-01-03,Emma Johnson,United Kingdom,Electronics,USB-C Hub,1,106.61,0.05,101.28,0.0,42.03,Stripe,Pending
+ORD-10225,2024-08-25,Maria Taylor,Australia,Software,Antivirus Annual,2,79.81,0.0,159.62,0.0,44.77,PayPal,Completed
+ORD-10026,2024-03-05,Sophie Taylor,France,Books,Business Analytics,3,13.03,0.15,33.23,8.69,-2.28,Credit Card,Refunded
+ORD-10424,2023-09-26,Nicole Wilson,France,Software,Project Mgmt License,1,72.53,0.0,72.53,5.25,15.22,Credit Card,Completed
+ORD-10263,2023-02-25,David Brown,United States,Electronics,Bluetooth Speaker,1,46.3,0.2,37.04,11.18,0.23,Stripe,Pending
+ORD-10050,2024-07-03,David Williams,United Kingdom,Books,Business Analytics,1,39.35,0.0,39.35,12.18,-2.05,Bank Transfer,Completed
+ORD-10229,2023-08-14,Anna Johnson,United States,Office Supplies,Mechanical Keyboard,1,45.68,0.05,43.4,12.24,0.34,PayPal,Completed
+ORD-10037,2023-06-09,Ryan Garcia,Canada,Software,Design Suite,1,31.14,0.2,24.91,11.82,-6.7,Bank Transfer,Completed
+ORD-10157,2023-04-25,Chris Garcia,Germany,Office Supplies,Desk Organizer,3,67.94,0.0,203.82,0.0,66.75,PayPal,Completed
+ORD-10237,2023-02-02,,United Kingdom,Accessories,Screen Protector,1,12.32,0.05,11.7,12.27,-8.23,Credit Card,Completed
+ORD-10574,2023-06-23,Chris Davis,Sweden,Electronics,LED Desk Lamp,2,115.41,0.05,219.28,0.0,53.97,PayPal,Completed
+ORD-10175,2024-01-18,Ryan Miller,Germany,Software,Project Mgmt License,5,79.07,0.15,336.05,0.0,71.13,Stripe,Cancelled
+ORD-10514,2024-01-30,Alex Garcia,United Kingdom,Accessories,Travel Adapter,1,29.64,0.0,29.64,8.26,0.34,Credit Card,Cancelled
+ORD-10357,2023-09-29,Anna Smith,United States,Office Supplies,Desk Organizer,1,40.13,0.15,34.11,11.89,-4.42,Stripe,Completed
+ORD-10194,2023-03-12,Alex Brown,United Kingdom,Software,Design Suite,2,14.26,0.0,28.52,6.09,0.41,Credit Card,Cancelled
+ORD-10503,2023-09-29,Kevin Davis,United States,Office Supplies,Notebook Set,1,49.75,0.0,49.75,5.16,5.78,PayPal,Completed
+ORD-10578,2024-06-11,Daniel Brown,United States,Office Supplies,Monitor Stand,1,16.99,0.05,16.14,,-5.7,Credit Card,Completed
+ORD-10511,2024-09-12,Sarah Wilson,Australia,Software,Design Suite,5,62.89,0.2,251.56,0.0,92.47,Credit Card,Refunded
+ORD-10067,2023-03-23,Nicole Smith,Germany,Software,Design Suite,2,35.46,0.15,60.28,8.09,13.96,Credit Card,Pending
+ORD-10319,2023-03-04,Linda Brown,Sweden,Office Supplies,Monitor Stand,1,69.61,0.1,62.65,9.39,3.72,PayPal,Completed
+ORD-10168,2024-10-02,Kevin Smith,Germany,Office Supplies,Mechanical Keyboard,1,40.77,0.05,38.73,5.38,2.52,Stripe,Cancelled
+ORD-10367,2024-04-14,Alex Jones,Netherlands,Office Supplies,Desk Organizer,2,40.12,0.1,72.22,8.3,17.57,Credit Card,Cancelled
+ORD-10162,2023-01-04,Emma Brown,United Kingdom,Electronics,Wireless Headphones,1,168.83,0.0,168.83,0.0,70.66,Bank Transfer,Cancelled
+ORD-10193,2024-05-12,Robert Jones,France,Books,Business Analytics,1,14.08,0.05,13.38,6.37,-3.27,PayPal,Completed
+ORD-10152,2024-11-29,Sarah Jones,United Kingdom,Office Supplies,Desk Organizer,2,66.77,0.0,133.54,0.0,56.01,Credit Card,Completed
+ORD-10501,2023-07-02,Nicole Davis,United States,Office Supplies,Ergonomic Mouse,1,27.87,0.0,27.87,10.52,0.31,Bank Transfer,Pending
+ORD-10346,2024-03-05,Chris Miller,Germany,Electronics,Webcam,2,178.35,0.05,338.86,0.0,94.94,Bank Transfer,Refunded
+ORD-10485,2023-07-17,Megan Garcia,Canada,Software,Design Suite,2,27.93,0.0,55.86,5.46,9.06,Credit Card,Completed
+ORD-10333,2024-09-01,Ryan Brown,Germany,Books,SQL Guide,4,18.71,0.0,74.84,7.84,8.12,Credit Card,Completed
+ORD-10161,2023-11-20,Emma Smith,United Kingdom,Software,VPN Subscription,2,60.47,0.1,108.85,0.0,29.53,PayPal,Cancelled
+ORD-10390,2023-01-09,Megan Taylor,United States,Office Supplies,Monitor Stand,1,84.2,0.1,75.78,10.81,13.08,Bank Transfer,Completed
+ORD-10074,2024-01-09,David Brown,France,Software,VPN Subscription,1,63.41,0.0,63.41,12.23,1.43,Credit Card,Completed
+ORD-10422,2023-05-14,Linda Brown,United States,Office Supplies,Mechanical Keyboard,3,66.98,0.0,200.94,0.0,46.68,Stripe,Completed
+ORD-10577,2023-10-18,David Johnson,Canada,Software,Project Mgmt License,2,25.2,0.0,50.4,12.93,2.83,Stripe,Completed
+ORD-10119,2023-09-10,David Wilson,Australia,Software,Cloud Storage Plan,1,67.14,0.1,60.43,9.62,1.91,Credit Card,Completed
+ORD-10396,2023-05-18,Ryan Brown,United States,Electronics,Wireless Headphones,2,108.38,0.05,205.92,0.0,49.02,PayPal,Pending
+ORD-10409,2024-10-11,Nicole Brown,United Kingdom,Accessories,Phone Case,1,23.95,0.1,21.55,5.84,0.61,Bank Transfer,Cancelled
+ORD-10481,2023-08-22,Robert Williams,Sweden,Electronics,Wireless Headphones,2,136.52,0.15,232.08,0.0,96.03,Bank Transfer,Completed
+ORD-10207,2024-07-06,David Jones,United States,Software,Cloud Storage Plan,1,50.01,0.1,45.01,6.22,5.78,Stripe,Completed
+ORD-10334,2023-03-11,Ryan Johnson,Netherlands,Software,VPN Subscription,2,60.64,0.1,109.15,0.0,24.18,Stripe,Cancelled
+ORD-10352,2023-09-25,Nicole Taylor,Netherlands,Software,Design Suite,1,64.33,0.05,61.11,11.58,9.98,Credit Card,Completed
+ORD-10341,2024-08-15,Chris Smith,United States,Office Supplies,Ergonomic Mouse,2,30.88,0.05,58.67,10.99,7.3,Credit Card,Refunded
+ORD-10404,2024-09-11,David Davis,United Kingdom,Office Supplies,Monitor Stand,2,86.9,0.0,173.8,0.0,53.58,PayPal,Completed
+ORD-10008,2024-11-23,James Taylor,United States,Books,Python Cookbook,1,48.41,0.0,48.41,5.24,6.35,Credit Card,Cancelled
+ORD-10377,2023-12-24,Thomas Garcia,United States,Office Supplies,Mechanical Keyboard,4,34.34,0.0,137.36,0.0,30.77,Stripe,Pending
+ORD-10036,2023-10-12,Julia Williams,United States,Office Supplies,Notebook Set,1,34.04,0.0,34.04,5.07,7.63,Bank Transfer,Completed
+ORD-10139,2024-03-08,Ryan Brown,Germany,Electronics,Bluetooth Speaker,3,151.15,0.0,453.45,0.0,89.99,Bank Transfer,Completed
+ORD-10253,2024-02-21,Sarah Garcia,Poland,Software,Antivirus Annual,2,77.07,0.05,146.43,0.0,50.76,Stripe,Completed
+ORD-10303,2024-02-04,Alex Wilson,United States,Accessories,Screen Protector,5,12.03,0.1,54.13,6.4,9.83,Bank Transfer,Cancelled
+ORD-10542,2024-02-17,David Taylor,Germany,Accessories,Travel Adapter,1,13.22,0.1,11.9,10.37,-6.51,Bank Transfer,Completed
+ORD-10059,2024-08-14,James Davis,United States,Office Supplies,Notebook Set,1,85.89,0.1,77.3,11.1,8.18,Stripe,Completed
+ORD-10111,2024-11-02,James Jones,Poland,Books,Data Science Handbook,1,31.32,0.15,26.62,12.69,-1.98,Bank Transfer,Completed
+ORD-10363,2024-04-13,Ryan Taylor,Sweden,Office Supplies,Notebook Set,5,36.53,0.05,173.52,0.0,44.41,Stripe,Refunded
+ORD-10354,2024-11-16,Maria Wilson,United Kingdom,Electronics,Webcam,1,170.69,0.0,170.69,0.0,48.03,Stripe,Refunded
+ORD-10262,2024-04-23,Sophie Wilson,United Kingdom,Books,Python Cookbook,3,17.18,0.0,51.54,10.78,-1.2,Credit Card,Refunded
+ORD-10525,2024-11-17,Ryan Jones,United States,Accessories,Screen Protector,2,8.05,0.05,15.29,5.53,-2.61,Stripe,Completed
+ORD-10297,2023-08-07,Megan Brown,United Kingdom,Software,Antivirus Annual,1,72.59,0.0,72.59,12.57,12.4,Bank Transfer,Completed
+ORD-10150,2024-11-27,David Johnson,Germany,Office Supplies,Desk Organizer,3,41.95,0.15,106.97,0.0,33.04,Bank Transfer,Pending
+ORD-10266,2024-10-23,Linda Taylor,United States,Office Supplies,Notebook Set,2,18.4,0.1,33.12,7.85,2.11,Stripe,Completed
+ORD-10518,2023-02-15,Laura Wilson,United States,Office Supplies,Mechanical Keyboard,4,55.48,0.0,221.92,0.0,84.27,Bank Transfer,Completed
+ORD-10530,2024-11-11,Julia Williams,United Kingdom,Office Supplies,Mechanical Keyboard,3,38.79,0.0,116.37,0.0,24.15,Credit Card,Completed
+ORD-10038,2023-08-09,Megan Jones,United States,Electronics,Webcam,2,146.58,0.1,263.84,0.0,50.6,Bank Transfer,Refunded
+ORD-10431,2023-01-10,Anna Williams,United States,Books,Data Science Handbook,1,48.37,0.05,45.95,6.28,7.89,Bank Transfer,Completed
+ORD-10307,2024-03-09,Robert Davis,United States,Accessories,Phone Case,1,16.45,0.05,15.63,10.67,-5.59,Stripe,Completed
+ORD-10198,2024-11-06,Julia Jones,Sweden,Software,Cloud Storage Plan,2,49.41,0.0,98.82,12.89,25.81,Credit Card,Completed
+ORD-10355,2023-11-18,,United States,Electronics,LED Desk Lamp,3,189.42,0.05,539.85,0.0,114.7,PayPal,Completed
+ORD-10146,2024-06-25,Nicole Williams,United States,Office Supplies,Desk Organizer,2,75.3,0.0,150.6,0.0,39.21,PayPal,Cancelled
+ORD-10470,2023-06-13,Maria Davis,United States,Electronics,USB-C Hub,1,166.59,0.05,158.26,0.0,35.17,Credit Card,Cancelled
+ORD-10532,2024-09-30,Daniel Johnson,United States,Electronics,Wireless Headphones,1,131.48,0.0,131.48,0.0,39.72,Stripe,Refunded
+ORD-10147,2023-09-15,Emma Garcia,Spain,Office Supplies,Mechanical Keyboard,5,36.85,0.05,175.04,0.0,52.13,Stripe,Refunded
+ORD-10420,2023-01-04,Laura Brown,United Kingdom,Electronics,LED Desk Lamp,5,130.56,0.1,587.52,0.0,145.12,PayPal,Pending
+ORD-10348,2024-08-20,James Garcia,Netherlands,Software,VPN Subscription,1,49.0,0.15,41.65,5.94,4.73,Stripe,Completed
+ORD-10325,2024-05-29,Julia Williams,United States,Accessories,Screen Protector,1,34.1,0.1,30.69,6.51,4.05,Bank Transfer,Cancelled
+ORD-10513,2023-04-29,Sophie Miller,Australia,Office Supplies,Desk Organizer,1,77.6,0.0,77.6,7.28,9.88,PayPal,Completed
+ORD-10123,2024-08-21,Maria Miller,United States,Electronics,Wireless Headphones,1,131.61,0.1,118.45,0.0,22.7,Credit Card,Pending
+ORD-10502,2024-08-17,James Brown,France,Software,Design Suite,1,19.45,0.0,19.45,11.52,-4.77,PayPal,Completed
+ORD-10096,2024-07-24,Thomas Taylor,United States,Office Supplies,Mechanical Keyboard,1,43.8,0.05,41.61,6.98,9.15,PayPal,Completed
+ORD-10143,2024-01-26,Julia Johnson,United States,Electronics,Wireless Headphones,1,124.3,0.0,124.3,0.0,23.16,Stripe,Completed
+ORD-10239,2023-03-14,Chris Williams,United Kingdom,Accessories,Cable Organizer,2,19.49,0.0,38.98,11.8,3.55,Bank Transfer,Completed
+ORD-10425,2023-06-15,Kevin Taylor,Australia,Software,Cloud Storage Plan,1,76.16,0.05,72.35,12.09,2.86,Credit Card,Completed
+ORD-10097,2023-08-13,Emma Brown,United Kingdom,Office Supplies,Notebook Set,4,52.29,0.0,209.16,0.0,57.39,Bank Transfer,Completed
+ORD-10324,2024-05-03,Daniel Williams,United Kingdom,Electronics,Bluetooth Speaker,3,122.06,0.0,366.18,0.0,134.1,Bank Transfer,Refunded
+ORD-10279,2023-07-07,Emma Miller,Germany,Electronics,Wireless Headphones,1,55.53,0.0,55.53,9.81,11.07,Stripe,Pending
+ORD-10293,2023-06-20,Emma Taylor,United States,Books,SQL Guide,3,46.85,0.0,140.55,0.0,57.79,Stripe,Completed
+ORD-10477,2023-07-24,Thomas Miller,France,Accessories,Cable Organizer,3,33.38,0.0,100.14,0.0,27.95,PayPal,Cancelled
+ORD-10122,2023-09-27,Laura Taylor,United States,Office Supplies,Mechanical Keyboard,1,35.66,0.15,30.31,10.79,-4.51,Credit Card,Cancelled
+ORD-10183,2023-01-20,Maria Miller,Germany,Electronics,Wireless Headphones,1,144.46,0.0,144.46,0.0,33.74,Bank Transfer,Refunded
+ORD-10202,2023-09-29,Anna Taylor,Sweden,Electronics,Wireless Headphones,4,96.56,0.2,308.99,0.0,127.19,PayPal,Completed
+ORD-10323,2024-08-21,Thomas Davis,United Kingdom,Electronics,Wireless Headphones,1,80.09,0.05,76.09,6.51,10.59,PayPal,Completed
+ORD-10246,2024-07-06,Sophie Smith,Spain,Accessories,Travel Adapter,2,32.02,0.05,60.84,10.23,7.38,Bank Transfer,Completed
+ORD-10512,2024-06-07,Sophie Garcia,United States,Accessories,Cable Organizer,1,19.91,0.05,18.91,10.85,-7.0,PayPal,Pending
+ORD-10457,2024-09-27,Nicole Taylor,France,Electronics,Wireless Headphones,1,34.54,0.0,34.54,9.83,-0.9,Stripe,Completed
+ORD-10478,2024-04-16,Maria Williams,United States,Software,VPN Subscription,1,61.04,0.05,57.99,7.6,12.51,PayPal,Cancelled
+ORD-10499,2023-04-29,Maria Johnson,United States,Office Supplies,Notebook Set,2,23.54,0.05,44.73,6.43,3.58,Bank Transfer,Completed
+ORD-10529,2023-03-13,Thomas Miller,Australia,Books,Python Cookbook,1,39.1,0.15,33.23,8.54,3.88,Credit Card,Refunded
+ORD-10388,2024-10-31,Alex Jones,Germany,Electronics,Wireless Headphones,2,49.23,0.0,98.46,10.51,10.57,Credit Card,Pending
+ORD-10125,2024-08-20,Julia Davis,United States,Office Supplies,Monitor Stand,4,80.97,0.15,275.3,0.0,90.91,Stripe,Completed
+ORD-10581,2024-09-26,Daniel Jones,United States,Accessories,Travel Adapter,2,30.58,0.1,55.04,10.12,9.25,Credit Card,Completed
+ORD-10223,2023-12-13,Linda Jones,Germany,Software,Project Mgmt License,2,69.02,0.0,138.04,0.0,46.29,Bank Transfer,Refunded
+ORD-10342,2024-08-31,David Miller,United States,Electronics,Wireless Headphones,3,135.04,0.0,405.12,0.0,136.58,Bank Transfer,Completed
+ORD-10053,2023-03-22,Laura Garcia,France,Electronics,USB-C Hub,2,129.69,0.05,246.41,0.0,63.85,Stripe,Completed
+ORD-10219,2023-05-04,James Brown,Canada,Electronics,USB-C Hub,1,169.99,0.05,161.49,0.0,53.7,PayPal,Completed
+ORD-10129,2023-05-22,Nicole Brown,United States,Books,Data Science Handbook,1,40.42,0.1,36.38,11.02,3.51,Bank Transfer,Pending
+ORD-10543,2024-12-14,Julia Taylor,Netherlands,Books,Excel Mastery,2,23.14,0.1,41.65,5.17,12.02,Stripe,Pending
+ORD-10393,2023-11-03,Anna Brown,France,Software,Antivirus Annual,3,38.9,0.0,116.7,0.0,39.51,Credit Card,Pending
+ORD-10447,2023-02-10,David Miller,United States,Electronics,Wireless Headphones,3,54.19,0.0,162.57,0.0,34.15,Credit Card,Completed
+ORD-10545,2024-07-21,Thomas Johnson,Netherlands,Office Supplies,Ergonomic Mouse,1,35.83,0.0,35.83,8.58,-2.09,PayPal,Completed
+ORD-10395,2023-04-17,Laura Taylor,United Kingdom,Electronics,Webcam,1,120.13,0.2,96.1,5.77,23.78,Bank Transfer,Completed
+ORD-10566,2023-11-26,James Jones,United States,Electronics,USB-C Hub,2,53.43,0.15,90.83,10.72,17.47,Stripe,Completed
+ORD-10402,2023-10-06,Ryan Smith,Canada,Accessories,Screen Protector,1,9.01,0.0,9.01,6.2,-3.86,Stripe,Completed
+ORD-10386,2023-11-06,Nicole Miller,Canada,Software,Design Suite,5,19.49,0.0,97.45,11.44,26.22,Stripe,Cancelled
+ORD-10580,2024-10-10,Robert Williams,United States,Accessories,Travel Adapter,1,22.43,0.0,22.43,5.61,2.54,Credit Card,Pending
+ORD-10294,2024-02-21,Robert Wilson,United States,Software,Cloud Storage Plan,2,49.09,0.05,93.27,7.71,11.7,Stripe,Refunded
+ORD-10500,2023-09-25,Anna Johnson,Australia,Software,Design Suite,1,66.54,0.0,66.54,12.33,12.58,Credit Card,Completed
+ORD-10482,2023-08-17,Megan Johnson,United States,Electronics,USB-C Hub,2,32.39,0.05,61.54,11.18,13.61,Bank Transfer,Cancelled
+ORD-10415,2023-04-05,Thomas Taylor,United Kingdom,Software,Design Suite,1,74.58,0.0,74.58,7.9,9.28,Credit Card,Completed
+ORD-10112,2024-05-26,Sarah Garcia,Germany,Electronics,LED Desk Lamp,4,52.8,0.05,200.64,0.0,49.25,Bank Transfer,Cancelled
+ORD-10179,2023-01-01,Robert Williams,Canada,Electronics,Bluetooth Speaker,1,192.0,0.05,182.4,0.0,67.11,Bank Transfer,Pending
+ORD-10421,2023-12-08,Alex Smith,Sweden,Accessories,Travel Adapter,4,32.24,0.0,128.96,0.0,24.58,Credit Card,Completed
+ORD-10467,2024-11-16,Julia Taylor,France,Accessories,Travel Adapter,2,13.74,0.2,21.98,10.93,-4.51,Credit Card,Pending
+ORD-10449,2023-08-04,Ryan Garcia,United States,Accessories,Travel Adapter,4,12.98,0.0,51.92,5.72,14.17,PayPal,Completed
+ORD-10373,2023-08-07,,United States,Office Supplies,Mechanical Keyboard,2,72.95,0.05,138.6,0.0,34.02,Credit Card,Completed
+ORD-10314,2023-10-31,Julia Jones,Germany,Office Supplies,Mechanical Keyboard,3,60.98,0.05,173.79,0.0,42.62,PayPal,Pending
+ORD-10151,2023-04-28,,United States,Electronics,LED Desk Lamp,5,145.16,0.0,725.8,0.0,261.76,PayPal,Cancelled
+ORD-10582,2023-12-10,Michael Johnson,Sweden,Accessories,Screen Protector,1,14.43,0.0,14.43,8.36,-2.34,PayPal,Completed
+ORD-10233,2024-10-08,Daniel Smith,United States,Office Supplies,Mechanical Keyboard,4,41.93,0.0,167.72,0.0,68.35,PayPal,Cancelled
+ORD-10306,2023-10-20,Anna Garcia,Australia,Software,Design Suite,1,15.48,0.05,14.71,8.7,-2.68,Stripe,Cancelled
+ORD-10549,2024-11-11,Laura Brown,United States,Software,Design Suite,2,49.14,0.0,98.28,8.04,11.91,Credit Card,Cancelled
+ORD-10164,2024-05-27,Laura Smith,Spain,Electronics,USB-C Hub,2,183.02,0.1,329.44,0.0,70.02,PayPal,Cancelled
+ORD-10317,2024-08-16,Julia Davis,United States,Office Supplies,Ergonomic Mouse,3,86.36,0.0,259.08,0.0,94.86,Bank Transfer,Completed
+ORD-10136,2024-10-04,Ryan Brown,United States,Electronics,LED Desk Lamp,1,165.13,0.0,165.13,0.0,67.74,Credit Card,Completed
+ORD-10410,2023-09-28,Michael Smith,United States,Accessories,Laptop Sleeve,5,23.54,0.0,117.7,0.0,44.81,Credit Card,Cancelled
+ORD-10197,2023-05-12,Ryan Garcia,Germany,Accessories,Screen Protector,5,18.48,0.15,78.54,12.92,4.49,Credit Card,Completed
+ORD-10568,2024-03-28,,United States,Software,Design Suite,1,69.2,0.0,69.2,12.53,6.86,PayPal,Completed
+ORD-10258,2024-03-17,Laura Jones,Poland,Electronics,Bluetooth Speaker,1,193.61,0.1,174.25,0.0,36.36,Bank Transfer,Completed
+ORD-10232,2024-12-25,Linda Jones,United States,Electronics,USB-C Hub,1,115.56,0.0,115.56,0.0,22.61,Bank Transfer,Completed
+ORD-10115,2024-04-14,Linda Johnson,United States,Software,Antivirus Annual,1,31.47,0.0,31.47,9.01,3.42,Bank Transfer,Pending
+ORD-10120,2024-07-28,Sophie Miller,United States,Books,Business Analytics,1,41.44,0.1,37.3,12.82,-0.32,Stripe,Completed
+ORD-10488,2023-10-13,Kevin Smith,Germany,Software,Cloud Storage Plan,1,21.54,0.1,19.39,8.92,-1.01,PayPal,Refunded
+ORD-10376,2023-05-16,Kevin Johnson,United States,Software,VPN Subscription,4,63.5,0.05,241.3,0.0,48.81,Stripe,Cancelled
+ORD-10384,2024-07-10,Daniel Miller,France,Electronics,USB-C Hub,1,149.37,0.0,149.37,0.0,38.29,PayPal,Completed
+ORD-10480,2023-01-22,Emma Smith,France,Books,Python Cookbook,1,39.3,0.15,33.4,7.38,-0.17,Stripe,Cancelled
+ORD-10567,2024-04-21,Emma Brown,Australia,Books,SQL Guide,1,37.19,0.2,29.75,12.6,-1.07,Stripe,Completed
+ORD-10456,2024-02-21,Robert Davis,Spain,Office Supplies,Notebook Set,5,53.35,0.0,266.75,0.0,77.12,PayPal,Completed
+ORD-10347,2024-11-04,Alex Williams,United States,Office Supplies,Mechanical Keyboard,1,55.59,0.1,50.03,11.89,0.83,PayPal,Pending
+ORD-10127,2024-01-06,David Wilson,Germany,Books,SQL Guide,1,22.42,0.0,22.42,5.62,0.84,Bank Transfer,Completed
+ORD-10590,2023-01-26,Chris Brown,Germany,Software,Design Suite,1,54.07,0.0,54.07,8.92,13.19,PayPal,Completed
+ORD-10285,2024-07-17,Ryan Johnson,Australia,Electronics,Webcam,1,130.13,0.1,117.12,0.0,42.49,PayPal,Pending
+ORD-10553,2024-09-22,Julia Smith,United Kingdom,Software,Cloud Storage Plan,1,51.04,0.05,48.49,5.45,9.18,PayPal,Cancelled
+ORD-10043,2023-04-10,Linda Miller,United States,Software,VPN Subscription,2,55.33,0.05,105.13,0.0,30.64,Credit Card,Pending
+ORD-10107,2023-08-05,Chris Jones,Canada,Electronics,LED Desk Lamp,1,196.62,0.1,176.96,0.0,72.4,Credit Card,Cancelled
+ORD-10564,2024-09-13,Anna Davis,United States,Office Supplies,Notebook Set,1,47.43,0.0,47.43,8.97,2.68,Bank Transfer,Completed
+ORD-10444,2023-02-12,Alex Jones,United States,Accessories,Cable Organizer,2,17.78,0.05,33.78,7.8,-0.55,Bank Transfer,Completed
+ORD-10133,2023-02-18,Maria Smith,Poland,Books,SQL Guide,5,32.38,0.1,145.71,0.0,28.83,PayPal,Cancelled
+ORD-10495,2024-11-26,Sarah Garcia,France,Electronics,Webcam,2,186.68,0.15,317.36,0.0,103.09,Stripe,Completed
+ORD-10044,2024-01-03,Julia Miller,United States,Office Supplies,Desk Organizer,1,55.31,0.0,55.31,7.96,14.6,Stripe,Pending
+ORD-10169,2023-11-02,David Garcia,United States,Office Supplies,Desk Organizer,2,24.88,0.05,47.27,6.26,12.83,PayPal,Completed
+ORD-10065,2023-08-22,David Taylor,Germany,Software,Cloud Storage Plan,1,41.62,0.0,41.62,11.64,-3.38,Credit Card,Cancelled
+ORD-10283,2023-03-19,Chris Taylor,United States,Software,Project Mgmt License,1,17.59,0.0,17.59,11.87,-6.57,Credit Card,Completed
+ORD-10085,2024-09-15,,France,Books,Excel Mastery,2,29.2,0.0,58.4,6.88,12.67,Stripe,Completed
+ORD-10242,2023-10-13,Alex Taylor,United Kingdom,Accessories,Screen Protector,1,31.96,0.0,31.96,5.5,5.28,Bank Transfer,Completed
+ORD-10186,2023-11-11,David Smith,Poland,Electronics,LED Desk Lamp,1,193.39,0.2,154.71,0.0,33.13,Stripe,Completed
+ORD-10326,2024-06-27,Megan Brown,Canada,Electronics,LED Desk Lamp,1,189.42,0.0,189.42,0.0,35.52,Stripe,Completed
+ORD-10159,2024-03-21,Julia Wilson,Germany,Office Supplies,Desk Organizer,3,86.38,0.0,259.14,0.0,58.78,Stripe,Completed
+ORD-10012,2024-03-08,Robert Davis,Australia,Software,VPN Subscription,1,67.79,0.05,64.4,7.57,7.82,Stripe,Completed
+ORD-10035,2023-12-15,Anna Johnson,United States,Electronics,Wireless Headphones,1,54.74,0.05,52.0,9.52,9.73,PayPal,Completed
+ORD-10028,2024-04-04,Linda Wilson,United States,Software,Project Mgmt License,3,17.93,0.15,45.72,10.17,-0.25,Stripe,Pending
+ORD-10170,2024-10-16,Megan Johnson,Australia,Electronics,USB-C Hub,3,102.96,0.0,308.88,0.0,62.65,Stripe,Completed
+ORD-10142,2024-01-30,David Smith,United States,Accessories,Phone Case,1,27.21,0.05,25.85,10.91,-4.29,Bank Transfer,Completed
+ORD-10236,2023-03-11,Sarah Davis,United Kingdom,Software,Antivirus Annual,4,45.8,0.05,174.04,0.0,43.14,Bank Transfer,Cancelled
+ORD-10463,2023-01-26,Daniel Taylor,Germany,Electronics,Webcam,4,75.32,0.05,286.22,0.0,91.91,Stripe,Completed
+ORD-10496,2024-07-03,Maria Wilson,Germany,Office Supplies,Notebook Set,1,46.68,0.0,46.68,6.48,8.99,PayPal,Completed
+ORD-10221,2023-08-19,Megan Williams,Canada,Accessories,Screen Protector,1,19.05,0.0,19.05,11.23,-4.29,Credit Card,Completed
+ORD-10544,2023-10-30,Robert Johnson,Canada,Electronics,Webcam,4,38.81,0.15,131.95,0.0,37.45,Bank Transfer,Completed
+ORD-10095,2024-12-05,Julia Johnson,France,Software,Cloud Storage Plan,1,79.15,0.0,79.15,8.18,20.52,Bank Transfer,Refunded
+ORD-10051,2023-05-08,Julia Brown,Germany,Office Supplies,Notebook Set,1,60.4,0.0,60.4,10.6,12.63,Stripe,Pending
+ORD-10240,2024-06-10,Megan Miller,United Kingdom,Accessories,Phone Case,1,11.06,0.0,11.06,8.64,-4.43,Credit Card,Pending
+ORD-10507,2024-03-20,Kevin Williams,Germany,Office Supplies,Mechanical Keyboard,2,66.36,0.15,112.81,0.0,43.41,Stripe,Pending
+ORD-10351,2023-11-20,David Williams,Sweden,Office Supplies,Ergonomic Mouse,5,31.68,0.05,150.48,0.0,34.41,Stripe,Completed
+ORD-10516,2023-07-14,Chris Miller,Netherlands,Office Supplies,Notebook Set,2,38.52,0.0,77.04,11.61,18.9,Stripe,Refunded
+ORD-10178,2024-06-27,Maria Jones,Australia,Office Supplies,Desk Organizer,3,19.33,0.0,57.99,8.47,8.28,PayPal,Refunded
+ORD-10460,2023-06-16,Maria Miller,Canada,Accessories,Travel Adapter,2,26.5,0.05,50.35,8.8,10.59,Stripe,Refunded
+ORD-10526,2023-07-21,Thomas Johnson,United States,Office Supplies,Notebook Set,1,62.72,0.1,56.45,10.33,1.85,Stripe,Pending
+ORD-10041,2023-04-05,Emma Miller,Spain,Books,Business Analytics,1,45.19,0.1,40.67,8.74,-0.68,Bank Transfer,Cancelled
+ORD-10554,2024-08-05,Ryan Taylor,Australia,Software,Antivirus Annual,1,56.74,0.05,53.9,12.85,4.61,Stripe,Completed
+ORD-10522,2024-06-16,Anna Williams,United Kingdom,Accessories,Travel Adapter,1,19.87,0.15,16.89,8.91,-1.92,Stripe,Cancelled
+ORD-10206,2023-08-05,Sarah Garcia,Netherlands,Office Supplies,Notebook Set,2,47.34,0.05,89.95,9.85,15.71,Bank Transfer,Completed
+ORD-10392,2024-07-21,Alex Smith,Australia,Software,VPN Subscription,2,35.87,0.0,71.74,11.25,5.73,PayPal,Completed
+ORD-10282,2023-09-13,Robert Williams,United States,Accessories,Screen Protector,1,11.84,0.05,11.25,11.13,-7.42,Stripe,Refunded
+ORD-10358,2024-02-10,Megan Wilson,United States,Electronics,Bluetooth Speaker,1,64.47,0.05,61.25,7.01,10.76,Stripe,Cancelled
+ORD-10397,2023-09-28,Linda Jones,Canada,Office Supplies,Ergonomic Mouse,3,15.89,0.0,47.67,,7.86,Credit Card,Completed
+ORD-10254,2023-07-14,Maria Smith,United States,Software,VPN Subscription,3,66.57,0.05,189.72,0.0,35.3,PayPal,Completed
+ORD-10217,2024-06-13,Laura Davis,Australia,Books,Business Analytics,1,39.96,0.05,37.96,5.7,5.16,Credit Card,Cancelled
+ORD-10004,2023-09-08,,France,Office Supplies,Mechanical Keyboard,1,72.72,0.15,61.81,5.15,19.04,Stripe,Refunded
+ORD-10256,2023-04-10,Daniel Miller,United Kingdom,Software,VPN Subscription,2,65.77,0.05,124.96,0.0,43.27,Bank Transfer,Completed
+ORD-10563,2024-08-16,David Jones,United Kingdom,Office Supplies,Monitor Stand,1,26.78,0.1,24.1,7.03,-2.2,Credit Card,Cancelled
+ORD-10533,2023-11-18,Sarah Brown,United Kingdom,Electronics,Wireless Headphones,1,180.64,0.0,180.64,0.0,74.29,PayPal,Pending
+ORD-10430,2024-07-28,Linda Williams,United Kingdom,Software,Cloud Storage Plan,2,47.1,0.05,89.49,8.65,19.64,Bank Transfer,Cancelled
+ORD-10100,2023-02-27,Chris Garcia,Germany,Accessories,Cable Organizer,1,11.89,0.05,11.3,8.2,-6.06,PayPal,Completed
+ORD-10226,2024-07-21,Julia Williams,Canada,Office Supplies,Mechanical Keyboard,2,50.67,0.15,86.14,7.86,13.85,Bank Transfer,Completed
+ORD-10448,2024-01-02,Robert Smith,Australia,Electronics,Webcam,1,48.32,0.1,43.49,9.1,-0.65,Credit Card,Completed
+ORD-10547,2023-07-16,Nicole Taylor,United States,Accessories,Screen Protector,1,17.19,0.0,17.19,7.66,-1.29,Stripe,Completed
+ORD-10571,2023-08-07,,United States,Electronics,Wireless Headphones,5,138.62,0.0,693.1,0.0,153.27,Stripe,Pending
+ORD-10213,2024-11-18,Ryan Wilson,United Kingdom,Electronics,LED Desk Lamp,1,76.94,0.0,76.94,11.98,16.39,PayPal,Refunded
+ORD-10359,2023-05-15,Nicole Wilson,Canada,Electronics,LED Desk Lamp,1,105.11,0.05,99.85,5.04,34.07,PayPal,Completed
+ORD-10171,2024-06-03,David Johnson,France,Electronics,USB-C Hub,5,101.78,0.0,508.9,0.0,100.25,Bank Transfer,Completed
+ORD-10098,2024-12-02,Sophie Smith,United States,Office Supplies,Desk Organizer,1,23.05,0.0,23.05,7.11,-0.94,PayPal,Completed
+ORD-10292,2023-08-31,Daniel Taylor,United States,Software,Cloud Storage Plan,1,21.01,0.2,16.81,,-6.78,Credit Card,Completed
+ORD-10215,2024-01-18,Maria Miller,Germany,Office Supplies,Desk Organizer,1,27.9,0.0,27.9,9.94,-0.36,PayPal,Completed
+ORD-10061,2024-12-22,Kevin Garcia,United Kingdom,Software,VPN Subscription,2,30.26,0.0,60.52,12.72,0.67,PayPal,Refunded
+ORD-10406,2023-12-18,Linda Davis,United States,Electronics,Bluetooth Speaker,5,70.53,0.0,352.65,0.0,130.57,Stripe,Pending
+ORD-10047,2023-09-28,Nicole Smith,United States,Accessories,Screen Protector,3,13.58,0.0,40.74,11.95,-1.4,PayPal,Completed
+ORD-10032,2023-06-13,,United States,Office Supplies,Ergonomic Mouse,5,39.89,0.0,199.45,0.0,76.35,PayPal,Completed
+ORD-10417,2024-03-09,David Davis,United States,Electronics,Wireless Headphones,1,155.41,0.15,132.1,0.0,35.68,Stripe,Completed
+ORD-10267,2023-04-11,Chris Jones,United Kingdom,Office Supplies,Ergonomic Mouse,2,25.22,0.0,50.44,11.37,4.32,Bank Transfer,Pending
+ORD-10327,2023-06-11,Megan Johnson,Canada,Software,VPN Subscription,2,13.43,0.0,26.86,10.73,-5.81,Bank Transfer,Completed
+ORD-10200,2024-07-16,Thomas Williams,France,Accessories,Travel Adapter,5,18.08,0.15,76.84,8.15,7.54,Stripe,Completed
+ORD-10044,2023-04-23,,United States,Electronics,Bluetooth Speaker,2,93.43,0.05,177.52,0.0,60.36,Stripe,Refunded
+ORD-10027,2023-08-14,Nicole Brown,United States,Electronics,LED Desk Lamp,1,179.73,0.0,179.73,0.0,33.6,Credit Card,Pending
+ORD-10524,2024-12-04,Chris Taylor,Germany,Software,Project Mgmt License,1,31.33,0.0,31.33,7.34,-1.49,Bank Transfer,Completed
+ORD-10505,2023-04-22,Emma Smith,United Kingdom,Electronics,Webcam,2,133.94,0.05,254.49,0.0,95.69,Bank Transfer,Completed
+ORD-10230,2023-01-08,David Williams,United States,Office Supplies,Ergonomic Mouse,1,72.08,0.0,72.08,11.11,10.33,Stripe,Cancelled
+ORD-10489,2023-03-13,Julia Davis,United States,Electronics,USB-C Hub,1,49.71,0.15,42.25,8.95,3.13,PayPal,Pending
+ORD-10260,2024-03-09,David Garcia,Germany,Accessories,Cable Organizer,5,22.05,0.1,99.23,6.26,24.53,Bank Transfer,Completed
+ORD-10378,2023-03-12,Daniel Johnson,United Kingdom,Electronics,Webcam,1,160.54,0.05,152.51,0.0,32.11,Bank Transfer,Completed
+ORD-10288,2024-10-29,Daniel Williams,United Kingdom,Office Supplies,Notebook Set,1,56.61,0.0,56.61,7.44,7.43,PayPal,Pending
+ORD-10418,2023-10-11,,United Kingdom,Electronics,LED Desk Lamp,1,53.18,0.1,47.86,10.05,9.77,Bank Transfer,Completed
+ORD-10391,2024-11-14,Robert Jones,United States,Accessories,Travel Adapter,1,11.41,0.0,11.41,,-8.52,Credit Card,Refunded
+ORD-10498,2023-01-29,Sarah Davis,United Kingdom,Accessories,Travel Adapter,2,22.87,0.15,38.88,9.1,2.66,Bank Transfer,Completed
+ORD-10138,2024-11-27,Robert Wilson,United States,Accessories,Phone Case,4,26.68,0.05,101.38,0.0,24.84,Bank Transfer,Completed
+ORD-10062,2023-03-13,Sarah Wilson,Germany,Office Supplies,Desk Organizer,1,38.26,0.0,38.26,7.65,0.78,Bank Transfer,Refunded
+ORD-10471,2024-12-19,Daniel Williams,France,Office Supplies,Monitor Stand,4,45.52,0.0,182.08,0.0,61.5,Credit Card,Completed
+ORD-10128,2023-08-13,Michael Davis,Germany,Office Supplies,Notebook Set,4,29.1,0.1,104.76,0.0,37.07,Bank Transfer,Refunded
+ORD-10583,2023-04-06,Daniel Miller,United Kingdom,Software,Project Mgmt License,1,32.89,0.05,31.25,6.51,0.67,Bank Transfer,Refunded
+ORD-10520,2024-03-22,Emma Johnson,Canada,Office Supplies,Monitor Stand,3,57.95,0.0,173.85,0.0,47.05,Bank Transfer,Pending
+ORD-10064,2024-11-08,David Davis,Canada,Software,VPN Subscription,5,32.61,0.2,130.44,0.0,33.38,Bank Transfer,Completed
+ORD-10014,2023-01-31,James Johnson,United Kingdom,Electronics,Webcam,3,147.39,0.05,420.06,0.0,125.09,PayPal,Cancelled
+ORD-10156,2023-12-15,Thomas Taylor,United States,Software,VPN Subscription,1,42.02,0.0,42.02,11.89,1.0,Credit Card,Pending
+ORD-10040,2023-04-15,Alex Wilson,Netherlands,Software,Project Mgmt License,1,39.08,0.0,39.08,11.28,3.97,Bank Transfer,Completed
+ORD-10492,2024-10-18,James Garcia,United Kingdom,Electronics,Wireless Headphones,2,111.57,0.05,211.98,0.0,51.86,Stripe,Pending
+ORD-10379,2023-09-08,Ryan Miller,Germany,Office Supplies,Desk Organizer,1,33.27,0.0,33.27,8.85,-2.33,Bank Transfer,Completed
+ORD-10187,2023-09-03,Ryan Smith,United Kingdom,Software,Cloud Storage Plan,2,50.64,0.05,96.22,10.09,16.34,PayPal,Refunded
+ORD-10216,2024-03-24,Megan Johnson,Sweden,Electronics,Webcam,4,33.43,0.1,120.35,0.0,30.42,Bank Transfer,Completed
+ORD-10052,2024-01-23,Megan Johnson,United Kingdom,Office Supplies,Desk Organizer,2,38.43,0.0,76.86,7.03,24.4,Stripe,Pending
+ORD-10337,2024-02-18,David Miller,Australia,Electronics,USB-C Hub,1,87.14,0.0,87.14,10.95,16.2,PayPal,Completed
+ORD-10295,2024-05-12,James Davis,United Kingdom,Books,SQL Guide,1,25.56,0.1,23.0,10.44,-1.35,PayPal,Cancelled
+ORD-10251,2023-09-06,Daniel Garcia,Netherlands,Software,VPN Subscription,2,36.92,0.2,59.07,12.32,9.12,PayPal,Completed
+ORD-10461,2023-07-01,Ryan Smith,Australia,Software,Cloud Storage Plan,1,14.29,0.05,13.58,6.02,-2.38,Stripe,Cancelled
+ORD-10455,2024-07-27,Ryan Jones,United States,Software,Design Suite,3,60.75,0.0,182.25,0.0,64.01,Stripe,Refunded
+ORD-10597,2024-02-29,,Canada,Software,Project Mgmt License,2,28.28,0.0,56.56,10.44,3.19,Stripe,Refunded
+ORD-10269,2024-02-17,Ryan Smith,United States,Electronics,LED Desk Lamp,1,134.86,0.0,134.86,0.0,27.98,Stripe,Pending
+ORD-10201,2023-06-19,Ryan Williams,Canada,Accessories,Laptop Sleeve,1,34.15,0.05,32.44,12.42,-0.45,Bank Transfer,Completed
+ORD-10161,2024-04-09,Kevin Wilson,Germany,Office Supplies,Ergonomic Mouse,1,55.72,0.2,44.58,9.33,6.79,PayPal,Cancelled
+ORD-10401,2023-06-09,David Taylor,United States,Office Supplies,Desk Organizer,2,83.44,0.1,150.19,0.0,30.76,Credit Card,Completed
+ORD-10476,2023-08-16,Michael Williams,Sweden,Electronics,Webcam,4,81.14,0.15,275.88,0.0,99.76,Stripe,Completed
+ORD-10105,2023-10-02,Robert Taylor,Spain,Office Supplies,Monitor Stand,1,54.97,0.05,52.22,10.4,9.87,Bank Transfer,Pending
+ORD-10389,2024-06-25,James Davis,Canada,Electronics,Wireless Headphones,2,128.53,0.05,244.21,0.0,96.92,Bank Transfer,Refunded
+ORD-10001,2023-04-25,Kevin Taylor,Netherlands,Electronics,Bluetooth Speaker,1,52.66,0.0,52.66,9.24,7.3,Stripe,Completed
+ORD-10558,2023-01-01,Sophie Garcia,United Kingdom,Electronics,Bluetooth Speaker,3,48.85,0.15,124.57,0.0,31.54,Stripe,Completed
+ORD-10080,2023-10-01,Chris Johnson,France,Office Supplies,Monitor Stand,1,73.43,0.0,73.43,10.55,13.8,Credit Card,Cancelled
+ORD-10205,2024-03-09,Anna Johnson,Australia,Electronics,Wireless Headphones,1,33.4,0.0,33.4,5.83,2.92,Credit Card,Completed
+ORD-10034,2024-03-08,Sarah Davis,Germany,Accessories,Phone Case,1,26.47,0.0,26.47,6.81,-1.47,Credit Card,Completed
+ORD-10508,2023-12-20,David Davis,Australia,Books,Python Cookbook,3,44.24,0.05,126.08,0.0,31.24,Stripe,Pending
+ORD-10427,2024-07-18,Julia Jones,United Kingdom,Electronics,Wireless Headphones,1,115.24,0.1,103.72,0.0,30.37,Credit Card,Refunded
+ORD-10454,2023-12-29,Anna Johnson,United Kingdom,Software,Design Suite,2,15.94,0.0,31.88,8.19,2.07,PayPal,Completed
+ORD-10366,2023-01-10,Thomas Davis,United States,Electronics,USB-C Hub,2,134.71,0.0,269.42,0.0,59.85,PayPal,Completed
+ORD-10091,2024-04-18,Linda Johnson,France,Office Supplies,Ergonomic Mouse,2,37.8,0.0,75.6,12.47,5.23,Bank Transfer,Refunded
+ORD-10339,2024-08-06,Nicole Davis,United Kingdom,Electronics,Webcam,1,84.52,0.05,80.29,5.18,15.15,PayPal,Completed
+ORD-10345,2023-03-25,Emma Williams,Netherlands,Accessories,Cable Organizer,4,29.99,0.0,119.96,0.0,37.57,PayPal,Completed
+ORD-10241,2023-09-01,Kevin Williams,Poland,Electronics,Wireless Headphones,3,47.62,0.15,121.43,0.0,35.92,Credit Card,Refunded
+ORD-10013,2023-02-02,,France,Office Supplies,Desk Organizer,1,30.9,0.1,27.81,7.71,3.17,Credit Card,Pending
+ORD-10315,2023-08-11,Chris Smith,Canada,Electronics,Wireless Headphones,2,76.25,0.05,144.88,,32.61,Credit Card,Completed
+ORD-10387,2024-09-18,Alex Jones,United Kingdom,Software,Design Suite,1,39.72,0.0,39.72,8.98,5.14,Bank Transfer,Pending
+ORD-10273,2023-07-16,Alex Smith,Netherlands,Accessories,Screen Protector,1,27.8,0.05,26.41,10.81,-0.4,PayPal,Cancelled
+ORD-10166,2024-06-03,,United Kingdom,Office Supplies,Ergonomic Mouse,2,67.09,0.15,114.05,0.0,32.97,Credit Card,Completed
+ORD-10594,2024-09-17,Sophie Davis,Canada,Electronics,Bluetooth Speaker,1,185.73,0.0,185.73,0.0,71.84,Stripe,Pending
+ORD-10484,2024-11-06,Megan Williams,Germany,Books,Excel Mastery,4,26.67,0.05,101.35,0.0,29.39,Stripe,Completed
+ORD-10585,2024-11-19,Anna Jones,United Kingdom,Office Supplies,Notebook Set,5,68.43,0.1,307.94,0.0,123.59,Stripe,Refunded
+ORD-10504,2023-02-09,Megan Taylor,France,Electronics,LED Desk Lamp,1,86.74,0.0,86.74,11.77,12.83,Bank Transfer,Completed
+ORD-10243,2024-11-16,Julia Taylor,United States,Office Supplies,Notebook Set,2,33.63,0.0,67.26,10.4,7.92,PayPal,Cancelled
+ORD-10562,2024-03-16,Michael Brown,Canada,Office Supplies,Desk Organizer,1,35.12,0.0,35.12,12.36,-1.12,PayPal,Completed
+ORD-10189,2023-09-04,Robert Johnson,United Kingdom,Electronics,Bluetooth Speaker,1,50.52,0.0,50.52,11.15,3.42,Bank Transfer,Completed
+ORD-10475,2024-04-26,Sarah Wilson,Canada,Accessories,Phone Case,3,14.46,0.05,41.21,7.46,9.44,Stripe,Completed
+ORD-10510,2024-03-22,Maria Wilson,United Kingdom,Accessories,Cable Organizer,2,11.25,0.0,22.5,7.05,-1.16,Credit Card,Completed
+ORD-10058,2024-01-06,Ryan Davis,United Kingdom,Electronics,Webcam,1,76.43,0.1,68.79,5.9,13.58,PayPal,Completed
+ORD-10474,2023-02-09,Linda Smith,Spain,Office Supplies,Mechanical Keyboard,4,85.26,0.0,341.04,0.0,119.96,Credit Card,Cancelled
+ORD-10560,2023-10-21,Chris Wilson,United States,Accessories,Travel Adapter,2,29.31,0.0,58.62,5.42,16.32,PayPal,Cancelled
+ORD-10252,2024-04-29,Julia Brown,Canada,Electronics,LED Desk Lamp,2,80.81,0.1,145.46,0.0,56.23,Bank Transfer,Pending
+ORD-10021,2024-07-28,Kevin Johnson,United Kingdom,Electronics,Webcam,2,79.5,0.0,159.0,0.0,55.6,PayPal,Pending
+ORD-10313,2023-07-14,Anna Miller,Germany,Accessories,Cable Organizer,3,22.79,0.0,68.37,12.05,7.43,Credit Card,Completed
+ORD-10459,2023-08-31,Megan Miller,United Kingdom,Office Supplies,Desk Organizer,1,28.26,0.05,26.85,11.23,-0.7,Stripe,Completed
+ORD-10160,2023-06-11,Linda Williams,United Kingdom,Office Supplies,Desk Organizer,1,17.3,0.1,15.57,7.33,-3.5,Stripe,Refunded
+ORD-10276,2024-04-04,Michael Wilson,Sweden,Software,Design Suite,1,63.29,0.0,63.29,7.1,7.85,Stripe,Pending
+ORD-10191,2023-03-22,Emma Williams,Germany,Books,Business Analytics,2,16.49,0.0,32.98,11.34,-4.44,Credit Card,Completed
+ORD-10385,2024-12-21,,Germany,Office Supplies,Mechanical Keyboard,3,42.01,0.0,126.03,0.0,31.41,PayPal,Cancelled
+ORD-10413,2023-09-15,Linda Garcia,Germany,Office Supplies,Mechanical Keyboard,1,28.49,0.0,28.49,12.59,-3.17,PayPal,Cancelled
+ORD-10491,2023-12-26,Daniel Garcia,United States,Office Supplies,Ergonomic Mouse,1,22.06,0.0,22.06,7.26,1.91,Bank Transfer,Completed
+ORD-10343,2023-02-10,Megan Taylor,United States,Accessories,Phone Case,4,18.43,0.2,58.98,9.06,11.6,Stripe,Completed
+ORD-10308,2024-12-14,Anna Miller,France,Office Supplies,Mechanical Keyboard,1,32.59,0.0,32.59,10.94,0.79,Stripe,Completed
+ORD-10130,2024-06-05,Megan Garcia,United Kingdom,Accessories,Laptop Sleeve,2,16.32,0.0,32.64,12.05,-2.52,Stripe,Cancelled
+ORD-10099,2023-11-29,Nicole Johnson,United States,Office Supplies,Monitor Stand,2,72.32,0.0,144.64,0.0,60.37,Bank Transfer,Pending
+ORD-10372,2024-07-04,Linda Smith,Canada,Electronics,Wireless Headphones,2,44.79,0.0,89.58,5.36,21.96,PayPal,Pending
+ORD-10087,2023-06-25,Sarah Williams,Canada,Electronics,USB-C Hub,1,134.01,0.05,127.31,0.0,53.43,Stripe,Completed
+ORD-10458,2023-06-08,Maria Miller,United States,Accessories,Screen Protector,1,21.62,0.05,20.54,11.47,-5.11,Stripe,Completed
+ORD-10330,2023-03-24,Kevin Garcia,Netherlands,Software,Design Suite,1,22.62,0.0,22.62,7.69,-2.76,Bank Transfer,Refunded
+ORD-10214,2024-10-27,Linda Wilson,Germany,Electronics,LED Desk Lamp,5,47.02,0.0,235.1,0.0,86.3,Bank Transfer,Cancelled
+ORD-10466,2024-02-26,Laura Miller,Australia,Office Supplies,Monitor Stand,2,37.63,0.1,67.73,8.45,12.52,PayPal,Completed
+ORD-10121,2024-07-05,James Smith,United States,Office Supplies,Notebook Set,3,23.89,0.2,57.34,8.13,3.94,Stripe,Completed
+ORD-10020,2023-01-28,Robert Johnson,United States,Accessories,Laptop Sleeve,2,24.45,0.1,44.01,12.57,-2.45,Credit Card,Completed
+ORD-10071,2023-10-12,Kevin Smith,United States,Software,VPN Subscription,1,21.35,0.1,19.22,11.16,-3.97,PayPal,Completed
+ORD-10106,2023-03-09,Thomas Davis,Sweden,Software,Antivirus Annual,5,63.97,0.1,287.87,0.0,99.5,Bank Transfer,Completed
+ORD-10270,2023-12-14,Emma Johnson,United States,Software,Project Mgmt License,1,16.86,0.1,15.17,8.89,-4.95,PayPal,Completed
+ORD-10435,2023-06-02,,United Kingdom,Office Supplies,Mechanical Keyboard,1,19.12,0.05,18.16,9.66,-5.42,Stripe,Cancelled
+ORD-10102,2023-02-02,James Taylor,United Kingdom,Software,Cloud Storage Plan,1,33.18,0.0,33.18,8.32,0.1,PayPal,Pending
